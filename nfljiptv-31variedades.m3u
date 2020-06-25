@@ -1,0 +1,106 @@
+#EXTM3U
+## SDª <- Alternativo; SD¹ <- Opção1; SD² <- Opção2; SD³ <- Opção3 ##
+##
+##-----------------
+## 31 Variedades ##
+##-----------------
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central FHD h265" tvg-logo="http://a5.vc/mT5" group-title=".31.Variedades",Comedy Central FHD h265
+http://csrv.tv:80/nfljr/tvn58/25460
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central FHD h265ª" tvg-logo="http://a5.vc/mT5" group-title=".31.Variedades",Comedy Central FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29476
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central FHD" tvg-logo="http://a5.vc/mT5" group-title=".31.Variedades",Comedy Central FHD
+http://csrv.tv:80/nfljr/tvn58/2014
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central FHDª" tvg-logo="http://a5.vc/mT5" group-title=".31.Variedades",Comedy Central FHDª
+http://csrv.tv:80/nfljr/tvn58/45133
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central HD" tvg-logo="http://a5.vc/mT5" group-title=".31.Variedades",Comedy Central HD
+http://csrv.tv:80/nfljr/tvn58/1873
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central HDª" tvg-logo="http://a5.vc/mT5" group-title=".31.Variedades",Comedy Central HDª
+http://csrv.tv:80/nfljr/tvn58/2391
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central SD" tvg-logo="http://a5.vc/mT5" group-title=".31.Variedades",Comedy Central SD
+http://csrv.tv:80/nfljr/tvn58/1874
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central SDª" tvg-logo="http://a5.vc/mT5" group-title=".31.Variedades",Comedy Central SDª
+http://csrv.tv:80/nfljr/tvn58/2205
+
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD h265" tvg-logo="http://a5.vc/scT" group-title=".31.Variedades",GNT FHD h265
+http://csrv.tv:80/nfljr/tvn58/25379
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD h265ª" tvg-logo="http://a5.vc/scT" group-title=".31.Variedades",GNT FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29412
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD" tvg-logo="http://a5.vc/scT" group-title=".31.Variedades",GNT FHD
+http://csrv.tv:80/nfljr/tvn58/1994
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHDª" tvg-logo="http://a5.vc/scT" group-title=".31.Variedades",GNT FHDª
+http://csrv.tv:80/nfljr/tvn58/45163
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="http://a5.vc/scT" group-title=".31.Variedades",GNT HD
+http://csrv.tv:80/nfljr/tvn58/1813
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HDª" tvg-logo="http://a5.vc/scT" group-title=".31.Variedades",GNT HDª
+http://csrv.tv:80/nfljr/tvn58/2364
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD" tvg-logo="http://a5.vc/scT" group-title=".31.Variedades",GNT SD
+http://csrv.tv:80/nfljr/tvn58/1814
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SDª" tvg-logo="http://a5.vc/scT" group-title=".31.Variedades",GNT SDª
+http://csrv.tv:80/nfljr/tvn58/2120
+
+#EXTINF:-1 tvg-id="History2.br" tvg-name="History2 FHD h265" tvg-logo="http://a5.vc/Zwg" group-title=".31.Variedades",History2 FHD h265
+http://csrv.tv:80/nfljr/tvn58/25378
+#EXTINF:-1 tvg-id="History2.br" tvg-name="History2 FHD h265ª" tvg-logo="http://a5.vc/Zwg" group-title=".31.Variedades",History2 FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29463
+#EXTINF:-1 tvg-id="History2.br" tvg-name="History2 FHD" tvg-logo="http://a5.vc/Zwg" group-title=".31.Variedades",History2 FHD
+http://csrv.tv:80/nfljr/tvn58/1993
+#EXTINF:-1 tvg-id="History2.br" tvg-name="History2 FHDª" tvg-logo="http://a5.vc/Zwg" group-title=".31.Variedades",History2 FHDª
+http://csrv.tv:80/nfljr/tvn58/45168
+#EXTINF:-1 tvg-id="History2.br" tvg-name="History2 HD" tvg-logo="http://a5.vc/Zwg" group-title=".31.Variedades",History2 HD
+http://csrv.tv:80/nfljr/tvn58/1811
+#EXTINF:-1 tvg-id="History2.br" tvg-name="History2 HDª" tvg-logo="http://a5.vc/Zwg" group-title=".31.Variedades",History2 HDª
+http://csrv.tv:80/nfljr/tvn58/2363
+#EXTINF:-1 tvg-id="History2.br" tvg-name="History2 SD" tvg-logo="http://a5.vc/Zwg" group-title=".31.Variedades",History2 SD
+http://csrv.tv:80/nfljr/tvn58/1812
+#EXTINF:-1 tvg-id="History2.br" tvg-name="History2 SDª" tvg-logo="http://a5.vc/Zwg" group-title=".31.Variedades",History2 SDª
+http://csrv.tv:80/nfljr/tvn58/2186
+
+#EXTINF:-1 tvg-id="Maisglobosat.br" tvg-name="Mais Globosat FHD h265" tvg-logo="http://a5.vc/e5K" group-title=".31.Variedades",Mais Globosat FHD h265
+http://csrv.tv:80/nfljr/tvn58/25440
+#EXTINF:-1 tvg-id="Maisglobosat.br" tvg-name="Mais Globosat FHD h265ª" tvg-logo="http://a5.vc/e5K" group-title=".31.Variedades",Mais Globosat FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29399
+#EXTINF:-1 tvg-id="Maisglobosat.br" tvg-name="Mais Globosat FHD" tvg-logo="http://a5.vc/e5K" group-title=".31.Variedades",Mais GloboSat FHD
+http://csrv.tv:80/nfljr/tvn58/1921
+#EXTINF:-1 tvg-id="Maisglobosat.br" tvg-name="Mais Globosat FHDª" tvg-logo="http://a5.vc/e5K" group-title=".31.Variedades",Mais Globosat FHDª
+http://csrv.tv:80/nfljr/tvn58/45172
+#EXTINF:-1 tvg-id="Maisglobosat.br" tvg-name="Mais Globosat HD" tvg-logo="http://a5.vc/e5K" group-title=".31.Variedades",Mais GloboSat HD
+http://csrv.tv:80/nfljr/tvn58/1793
+#EXTINF:-1 tvg-id="Maisglobosat.br" tvg-name="Mais Globosat HDª" tvg-logo="http://a5.vc/e5K" group-title=".31.Variedades",Mais GloboSat HDª
+http://csrv.tv:80/nfljr/tvn58/2366
+#EXTINF:-1 tvg-id="Maisglobosat.br" tvg-name="Mais Globosat SD" tvg-logo="http://a5.vc/e5K" group-title=".31.Variedades",Mais GloboSat SD
+http://csrv.tv:80/nfljr/tvn58/1794
+#EXTINF:-1 tvg-id="Maisglobosat.br" tvg-name="Mais Globosat SDª" tvg-logo="http://a5.vc/e5K" group-title=".31.Variedades",Mais GloboSat SDª
+http://csrv.tv:80/nfljr/tvn58/2188
+
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow FHD h265" tvg-logo="http://a5.vc/Uet" group-title=".31.Variedades",Multishow FHD h265
+http://csrv.tv:80/nfljr/tvn58/25375
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow FHD h265ª" tvg-logo="http://a5.vc/Uet" group-title=".31.Variedades",Multishow FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29453
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow FHD" tvg-logo="http://a5.vc/Uet" group-title=".31.Variedades",Multishow FHD
+http://csrv.tv:80/nfljr/tvn58/1980
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow FHDª" tvg-logo="http://a5.vc/Uet" group-title=".31.Variedades",Multishow FHDª
+http://csrv.tv:80/nfljr/tvn58/45179
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD" tvg-logo="http://a5.vc/Uet" group-title=".31.Variedades",Multishow HD
+http://csrv.tv:80/nfljr/tvn58/1781
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HDª" tvg-logo="http://a5.vc/Uet" group-title=".31.Variedades",Multishow HDª
+http://csrv.tv:80/nfljr/tvn58/2350
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow SD" tvg-logo="http://a5.vc/Uet" group-title=".31.Variedades",Multishow SD
+http://csrv.tv:80/nfljr/tvn58/1782
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow SDª" tvg-logo="http://a5.vc/Uet" group-title=".31.Variedades",Multishow SDª
+http://csrv.tv:80/nfljr/tvn58/2175
+
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva FHD h265" tvg-logo="http://a5.vc/Qin" group-title=".31.Variedades",Viva FHD h265
+http://csrv.tv:80/nfljr/tvn58/25402
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva FHD" tvg-logo="http://a5.vc/Qin" group-title=".31.Variedades",Viva FHD
+http://csrv.tv:80/nfljr/tvn58/1922
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva FHDª" tvg-logo="http://a5.vc/Qin" group-title=".31.Variedades",Viva FHDª
+http://csrv.tv:80/nfljr/tvn58/45220
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva HD" tvg-logo="http://a5.vc/Qin" group-title=".31.Variedades",Viva HD
+http://csrv.tv:80/nfljr/tvn58/1683
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva HDª" tvg-logo="http://a5.vc/Qin" group-title=".31.Variedades",Viva HDª
+http://csrv.tv:80/nfljr/tvn58/2314
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva SD" tvg-logo="http://a5.vc/Qin" group-title=".31.Variedades",Viva SD
+http://csrv.tv:80/nfljr/tvn58/1684
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva SDª" tvg-logo="http://a5.vc/Qin" group-title=".31.Variedades",Viva SDª
+http://csrv.tv:80/nfljr/tvn58/2135
+##

@@ -1,0 +1,189 @@
+#EXTM3U
+## SDª <- Alternativo; SD¹ <- Opção1; SD² <- Opção2; SD³ <- Opção3 ##
+##
+##---------------
+## 21 Esportes ##
+##---------------
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports FHD h265" tvg-logo="http://a5.vc/j8Y" group-title=".21.Esportes",Band Sports FHD h265
+http://csrv.tv:80/nfljr/tvn58/25468
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports FHD h265ª" tvg-logo="http://a5.vc/j8Y" group-title=".21.Esportes",Band Sports FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29422
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports FHD" tvg-logo="http://a5.vc/j8Y" group-title=".21.Esportes",Band Sports FHD
+http://csrv.tv:80/nfljr/tvn58/2019
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports FHDª" tvg-logo="http://a5.vc/j8Y" group-title=".21.Esportes",Band Sports FHDª
+http://csrv.tv:80/nfljr/tvn58/45125
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports HD" tvg-logo="http://a5.vc/j8Y" group-title=".21.Esportes",Band Sports HD
+http://csrv.tv:80/nfljr/tvn58/1891
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports HDª" tvg-logo="http://a5.vc/j8Y" group-title=".21.Esportes",Band Sports HDª
+http://csrv.tv:80/nfljr/tvn58/2397
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports SD" tvg-logo="http://a5.vc/j8Y" group-title=".21.Esportes",Band Sports SD
+http://csrv.tv:80/nfljr/tvn58/1892
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports SDª" tvg-logo="http://a5.vc/j8Y" group-title=".21.Esportes",Band Sports SDª
+http://csrv.tv:80/nfljr/tvn58/2209
+
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 1 FHD h265" tvg-logo="http://a5.vc/8lJ" group-title=".21.Esportes",ESPN 1 FHD h265
+http://csrv.tv:80/nfljr/tvn58/25386
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 1 FHD h265ª" tvg-logo="http://a5.vc/8lJ" group-title=".21.Esportes",ESPN 1 FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29395
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 1 FHD" tvg-logo="http://a5.vc/8lJ" group-title=".21.Esportes",ESPN 1 FHD
+http://csrv.tv:80/nfljr/tvn58/1947
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 1 FHDª" tvg-logo="http://a5.vc/8lJ" group-title=".21.Esportes",ESPN 1 FHDª
+http://csrv.tv:80/nfljr/tvn58/45148
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 1 HD" tvg-logo="http://a5.vc/8lJ" group-title=".21.Esportes",ESPN 1 HD
+http://csrv.tv:80/nfljr/tvn58/1841
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 1 HDª" tvg-logo="http://a5.vc/8lJ" group-title=".21.Esportes",ESPN 1 HDª
+http://csrv.tv:80/nfljr/tvn58/2376
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 1 SD" tvg-logo="http://a5.vc/8lJ" group-title=".21.Esportes",ESPN 1 SD
+http://csrv.tv:80/nfljr/tvn58/1848
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 1 SDª" tvg-logo="http://a5.vc/8lJ" group-title=".21.Esportes",ESPN 1 SDª
+http://csrv.tv:80/nfljr/tvn58/2194
+
+#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2 FHD h265" tvg-logo="http://a5.vc/KCw" group-title=".21.Esportes",ESPN 2 FHD h265
+http://csrv.tv:80/nfljr/tvn58/25458
+#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2 FHD h265ª" tvg-logo="http://a5.vc/KCw" group-title=".21.Esportes",ESPN 2 FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29394
+#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2 FHD" tvg-logo="http://a5.vc/KCw" group-title=".21.Esportes",ESPN 2 FHD
+http://csrv.tv:80/nfljr/tvn58/2004
+#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2 FHDª" tvg-logo="http://a5.vc/KCw" group-title=".21.Esportes",ESPN 2 FHDª
+http://csrv.tv:80/nfljr/tvn58/45149
+#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2 HD" tvg-logo="http://a5.vc/KCw" group-title=".21.Esportes",ESPN 2 HD
+http://csrv.tv:80/nfljr/tvn58/1846
+#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2 HDª" tvg-logo="http://a5.vc/KCw" group-title=".21.Esportes",ESPN 2 HDª
+http://csrv.tv:80/nfljr/tvn58/2379
+#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2 SD" tvg-logo="http://a5.vc/KCw" group-title=".21.Esportes",ESPN 2 SD
+http://csrv.tv:80/nfljr/tvn58/1847
+#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2 SDª" tvg-logo="http://a5.vc/KCw" group-title=".21.Esportes",ESPN 2 SDª
+http://csrv.tv:80/nfljr/tvn58/2196
+
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil FHD h265" tvg-logo="http://a5.vc/YpF" group-title=".21.Esportes",ESPN Brasil FHD h265
+http://csrv.tv:80/nfljr/tvn58/25387
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil FHD h265ª" tvg-logo="http://a5.vc/YpF" group-title=".21.Esportes",ESPN Brasil FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29396
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil FHD" tvg-logo="http://a5.vc/YpF" group-title=".21.Esportes",ESPN Brasil FHD
+http://csrv.tv:80/nfljr/tvn58/1948
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil FHDª" tvg-logo="http://a5.vc/YpF" group-title=".21.Esportes",ESPN Brasil FHDª
+http://csrv.tv:80/nfljr/tvn58/45146
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil HD" tvg-logo="http://a5.vc/YpF" group-title=".21.Esportes",ESPN Brasil HD
+http://csrv.tv:80/nfljr/tvn58/1844
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil HDª" tvg-logo="http://a5.vc/YpF" group-title=".21.Esportes",ESPN Brasil HDª
+http://csrv.tv:80/nfljr/tvn58/2378
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil SD" tvg-logo="http://a5.vc/YpF" group-title=".21.Esportes",ESPN Brasil SD
+http://csrv.tv:80/nfljr/tvn58/1845
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil SDª" tvg-logo="http://a5.vc/YpF" group-title=".21.Esportes",ESPN Brasil SDª
+http://csrv.tv:80/nfljr/tvn58/2195
+
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra FHD h265" tvg-logo="http://a5.vc/i1l" group-title=".21.Esportes",ESPN Extra FHD h265
+http://csrv.tv:80/nfljr/tvn58/25457
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra FHD h265ª" tvg-logo="http://a5.vc/i1l" group-title=".21.Esportes",ESPN Extra FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29393
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra FHD" tvg-logo="http://a5.vc/i1l" group-title=".21.Esportes",ESPN Extra FHD
+http://csrv.tv:80/nfljr/tvn58/2003
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra FHDª" tvg-logo="http://a5.vc/i1l" group-title=".21.Esportes",ESPN Extra FHDª
+http://csrv.tv:80/nfljr/tvn58/45147
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra HD" tvg-logo="http://a5.vc/i1l" group-title=".21.Esportes",ESPN Extra HD
+http://csrv.tv:80/nfljr/tvn58/1842
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra HDª" tvg-logo="http://a5.vc/i1l" group-title=".21.Esportes",ESPN Extra HDª
+http://csrv.tv:80/nfljr/tvn58/2377
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra SD" tvg-logo="http://a5.vc/i1l" group-title=".21.Esportes",ESPN Extra SD
+http://csrv.tv:80/nfljr/tvn58/1843
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra SDª" tvg-logo="http://a5.vc/i1l" group-title=".21.Esportes",ESPN Extra SDª
+http://lista.lorddark.club:8080/4816879561/5445175358/19209
+
+#EXTINF:-1 tvg-id="Fossports.br" tvg-name="Fox Sports1 FHD h265" tvg-logo="http://a5.vc/55i" group-title=".Canais",Fox Sports1 FHD h265
+http://csrv.tv:80/nfljr/tvn58/25382
+#EXTINF:-1 tvg-id="Fossports.br" tvg-name="Fox Sports1 FHD h265ª" tvg-logo="http://a5.vc/55i" group-title=".Canais",Fox Sports1 FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29466
+#EXTINF:-1 tvg-id="Fossports.br" tvg-name="Fox Sports1 FHD" tvg-logo="http://a5.vc/55i" group-title=".Canais",Fox Sports1 FHD
+http://csrv.tv:80/nfljr/tvn58/1944
+#EXTINF:-1 tvg-id="Fossports.br" tvg-name="Fox Sports1 FHDª" tvg-logo="http://a5.vc/55i" group-title=".Canais",Fox Sports1 FHDª
+http://csrv.tv:80/nfljr/tvn58/45158
+#EXTINF:-1 tvg-id="Fossports.br" tvg-name="Fox Sports1 HD" tvg-logo="http://a5.vc/55i" group-title=".Canais",Fox Sports1 HD
+http://csrv.tv:80/nfljr/tvn58/1827
+#EXTINF:-1 tvg-id="Fossports.br" tvg-name="Fox Sports1 HDª" tvg-logo="http://a5.vc/55i" group-title=".Canais",Fox Sports1 HDª
+http://csrv.tv:80/nfljr/tvn58/2369
+#EXTINF:-1 tvg-id="Fossports.br" tvg-name="Fox Sports1 SD" tvg-logo="http://a5.vc/55i" group-title=".Canais",Fox Sports1 SD
+http://csrv.tv:80/nfljr/tvn58/1828
+#EXTINF:-1 tvg-id="Fossports.br" tvg-name="Fox Sports1 SDª" tvg-logo="http://a5.vc/55i" group-title=".Canais",Fox Sports1 SDª
+http://csrv.tv:80/nfljr/tvn58/2190
+
+#EXTINF:-1 tvg-id="Fossports2.br" tvg-name="Fox Sports2 FHD h265" tvg-logo="http://a5.vc/DXo" group-title=".Canais",Fox Sports2 FHD h265
+http://csrv.tv:80/nfljr/tvn58/25383
+#EXTINF:-1 tvg-id="Fossports2.br" tvg-name="Fox Sports2 FHD h265ª" tvg-logo="http://a5.vc/DXo" group-title=".Canais",Fox Sports2 FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29467
+#EXTINF:-1 tvg-id="Fossports2.br" tvg-name="Fox Sports2 FHD" tvg-logo="http://a5.vc/DXo" group-title=".Canais",Fox Sports2 FHD
+http://csrv.tv:80/nfljr/tvn58/1945
+#EXTINF:-1 tvg-id="Fossports2.br" tvg-name="Fox Sports2 FHDª" tvg-logo="http://a5.vc/DXo" group-title=".Canais",Fox Sports2 FHDª
+http://csrv.tv:80/nfljr/tvn58/45157
+#EXTINF:-1 tvg-id="Fossports2.br" tvg-name="Fox Sports2 HD" tvg-logo="http://a5.vc/DXo" group-title=".Canais",Fox Sports2 HD
+http://csrv.tv:80/nfljr/tvn58/1825
+#EXTINF:-1 tvg-id="Fossports2.br" tvg-name="Fox Sports2 HDª" tvg-logo="http://a5.vc/DXo" group-title=".Canais",Fox Sports2 HDª
+http://csrv.tv:80/nfljr/tvn58/2370
+#EXTINF:-1 tvg-id="Fossports2.br" tvg-name="Fox Sports2 SD" tvg-logo="http://a5.vc/DXo" group-title=".Canais",Fox Sports2 SD
+http://csrv.tv:80/nfljr/tvn58/1826
+#EXTINF:-1 tvg-id="Fossports2.br" tvg-name="Fox Sports2 SDª" tvg-logo="http://a5.vc/DXo" group-title=".Canais",Fox Sports2 SDª
+http://csrv.tv:80/nfljr/tvn58/2191
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV1 FHD h265" tvg-logo="http://a5.vc/cii" group-title=".21.Esportes",SporTV1 FHD h265
+http://csrv.tv:80/nfljr/tvn58/25417
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV1 FHD h265ª" tvg-logo="http://a5.vc/cii" group-title=".21.Esportes",SporTV1 FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29437
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV1 FHD" tvg-logo="http://a5.vc/cii" group-title=".21.Esportes",SporTV1 FHD
+http://csrv.tv:80/nfljr/tvn58/1928
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV1 FHDª" tvg-logo="http://a5.vc/cii" group-title=".21.Esportes",SporTV1 FHDª
+http://csrv.tv:80/nfljr/tvn58/45199
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV1 HD" tvg-logo="http://a5.vc/cii" group-title=".21.Esportes",SporTV1 HD
+http://csrv.tv:80/nfljr/tvn58/1726
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV1 HDª" tvg-logo="http://a5.vc/cii" group-title=".21.Esportes",SporTV1 HDª
+http://csrv.tv:80/nfljr/tvn58/2330
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV1 SD" tvg-logo="http://a5.vc/cii" group-title=".21.Esportes",SporTV1 SD
+http://csrv.tv:80/nfljr/tvn58/1731
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV1 SDª" tvg-logo="http://a5.vc/cii" group-title=".21.Esportes",SporTV1 SDª
+http://csrv.tv:80/nfljr/tvn58/2154
+
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV2 FHD h265" tvg-logo="http://a5.vc/YO7" group-title=".21.Esportes",SporTV2 FHD h265
+http://csrv.tv:80/nfljr/tvn58/25419
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV2 FHD h265ª" tvg-logo="http://a5.vc/YO7" group-title=".21.Esportes",SporTV2 FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29439
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV2 FHD" tvg-logo="http://a5.vc/YO7" group-title=".21.Esportes",SporTV2 FHD
+http://csrv.tv:80/nfljr/tvn58/1930
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV2 FHDª" tvg-logo="http://a5.vc/YO7" group-title=".21.Esportes",SporTV2 FHDª
+http://csrv.tv:80/nfljr/tvn58/45200
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV2 HD" tvg-logo="http://a5.vc/YO7" group-title=".21.Esportes",SporTV2 HD
+http://csrv.tv:80/nfljr/tvn58/1729
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV2 HDª" tvg-logo="http://a5.vc/YO7" group-title=".21.Esportes",SporTV2 HDª
+http://csrv.tv:80/nfljr/tvn58/2332
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV2 SD" tvg-logo="http://a5.vc/YO7" group-title=".21.Esportes",SporTV2 SD
+http://csrv.tv:80/nfljr/tvn58/1730
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV2 SDª" tvg-logo="http://a5.vc/YO7" group-title=".21.Esportes",SporTV2 SDª
+http://csrv.tv:80/nfljr/tvn58/2155
+
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV3 FHD h265" tvg-logo="http://a5.vc/ybu" group-title=".21.Esportes",SporTV3 FHD h265
+http://csrv.tv:80/nfljr/tvn58/25418
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV3 FHD h265ª" tvg-logo="http://a5.vc/ybu" group-title=".21.Esportes",SporTV3 FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29438
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV3 FHD" tvg-logo="http://a5.vc/ybu" group-title=".21.Esportes",SporTV3 FHD
+http://csrv.tv:80/nfljr/tvn58/1929
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV3 FHDª" tvg-logo="http://a5.vc/ybu" group-title=".21.Esportes",SporTV3 FHDª
+http://csrv.tv:80/nfljr/tvn58/45201
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV3 HD" tvg-logo="http://a5.vc/ybu" group-title=".21.Esportes",SporTV3 HD
+http://csrv.tv:80/nfljr/tvn58/1727
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV3 HDª" tvg-logo="http://a5.vc/ybu" group-title=".21.Esportes",SporTV3 HDª
+http://csrv.tv:80/nfljr/tvn58/2331
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV3 SD" tvg-logo="http://a5.vc/ybu" group-title=".21.Esportes",SporTV3 SD
+http://csrv.tv:80/nfljr/tvn58/1728
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV3 SDª" tvg-logo="http://a5.vc/ybu" group-title=".21.Esportes",SporTV3 SDª
+http://csrv.tv:80/nfljr/tvn58/2131
+
+#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 1 HD" tvg-logo="http://a5.vc/6qb" group-title=".21.Esportes",DAZN 1 HD
+http://csrv.tv:80/nfljr/tvn58/1642
+#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 2 HD" tvg-logo="http://a5.vc/6qb" group-title=".21.Esportes",DAZN 2 HD
+http://csrv.tv:80/nfljr/tvn58/1641
+#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 3 HD" tvg-logo="http://a5.vc/6qb" group-title=".21.Esportes",DAZN 3 HD
+http://csrv.tv:80/nfljr/tvn58/1640
+#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 4 HD" tvg-logo="http://a5.vc/6qb" group-title=".21.Esportes",DAZN 4 HD
+http://csrv.tv:80/nfljr/tvn58/36648
+#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 5 HD" tvg-logo="http://a5.vc/6qb" group-title=".21.Esportes",DAZN 5 HD
+http://csrv.tv:80/nfljr/tvn58/36649
+#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 6 HD" tvg-logo="http://a5.vc/6qb" group-title=".21.Esportes",DAZN 6 HD
+http://csrv.tv:80/nfljr/tvn58/36650
+##

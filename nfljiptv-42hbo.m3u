@@ -1,0 +1,158 @@
+#EXTM3U
+## SDª <- Alternativo; SD¹ <- Opção1; SD² <- Opção2; SD³ <- Opção3 ##
+#
+##----------
+## 42 HBO ##
+##----------
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 1 FHD h265" tvg-logo="http://a5.vc/ezc" group-title=".42.HBO",HBO 1 FHD h265
+http://csrv.tv:80/nfljr/tvn58/25445
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 1 FHD h265ª" tvg-logo="http://a5.vc/ezc" group-title=".42.HBO",HBO 1 FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29410
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 1 FHD" tvg-logo="http://a5.vc/ezc" group-title=".42.HBO",HBO 1 FHD
+http://csrv.tv:80/nfljr/tvn58/1940
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 1 FHDª" tvg-logo="http://a5.vc/ezc" group-title=".42.HBO",HBO 1 FHDª
+http://csrv.tv:80/nfljr/tvn58/45165
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 1 HD" tvg-logo="http://a5.vc/ezc" group-title=".42.HBO",HBO 1 HD
+http://csrv.tv:80/nfljr/tvn58/1805
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 1 HDª" tvg-logo="http://a5.vc/ezc" group-title=".42.HBO",HBO 1 HDª
+http://csrv.tv:80/nfljr/tvn58/2360
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 1 HD leg" tvg-logo="http://a5.vc/ezc" group-title=".42.HBO",HBO 1 HD leg
+http://csrv.tv:80/nfljr/tvn58/1525
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 1 SD" tvg-logo="http://a5.vc/ezc" group-title=".42.HBO",HBO 1 SD
+http://csrv.tv:80/nfljr/tvn58/1810
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 1 SDª" tvg-logo="http://a5.vc/ezc" group-title=".42.HBO",HBO 1 SDª
+http://csrv.tv:80/nfljr/tvn58/2182
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 1 SD leg" tvg-logo="http://a5.vc/ezc" group-title=".42.HBO",HBO 1 SD leg
+http://csrv.tv:80/nfljr/tvn58/1524
+
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD h265" tvg-logo="http://a5.vc/0qQ" group-title=".42.HBO",HBO 2 FHD h265
+http://csrv.tv:80/nfljr/tvn58/25447
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD h265ª" tvg-logo="http://a5.vc/0qQ" group-title=".42.HBO",HBO 2 FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29460
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="http://a5.vc/0qQ" group-title=".42.HBO",HBO 2 FHD
+http://csrv.tv:80/nfljr/tvn58/1941
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHDª" tvg-logo="http://a5.vc/0qQ" group-title=".42.HBO",HBO 2 FHDª
+http://csrv.tv:80/nfljr/tvn58/45167
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="http://a5.vc/0qQ" group-title=".42.HBO",HBO 2 HD
+http://csrv.tv:80/nfljr/tvn58/1808
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HDª" tvg-logo="http://a5.vc/0qQ" group-title=".42.HBO",HBO 2 HDª
+http://csrv.tv:80/nfljr/tvn58/2362
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="http://a5.vc/0qQ" group-title=".42.HBO",HBO 2 SD
+http://csrv.tv:80/nfljr/tvn58/1809
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SDª" tvg-logo="http://a5.vc/0qQ" group-title=".42.HBO",HBO 2 SDª
+http://csrv.tv:80/nfljr/tvn58/2126
+
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family FHD h265" tvg-logo="http://a5.vc/u4M" group-title=".42.HBO",HBO Family FHD h265
+http://csrv.tv:80/nfljr/tvn58/25446
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family FHD h265ª" tvg-logo="http://a5.vc/u4M" group-title=".42.HBO",HBO Family FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29411
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family FHD" tvg-logo="http://a5.vc/u4M" group-title=".42.HBO",HBO Family FHD
+http://csrv.tv:80/nfljr/tvn58/1992
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family FHDª" tvg-logo="http://a5.vc/u4M" group-title=".42.HBO",HBO Family FHDª
+http://csrv.tv:80/nfljr/tvn58/45164
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family HD" tvg-logo="http://a5.vc/u4M" group-title=".42.HBO",HBO Family HD
+http://csrv.tv:80/nfljr/tvn58/1806
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family HDª" tvg-logo="http://a5.vc/u4M" group-title=".42.HBO",HBO Family HDª
+http://csrv.tv:80/nfljr/tvn58/2361
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family SD" tvg-logo="http://a5.vc/u4M" group-title=".42.HBO",HBO Family SD
+http://csrv.tv:80/nfljr/tvn58/1807
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family SDª" tvg-logo="http://a5.vc/u4M" group-title=".42.HBO",HBO Family SDª
+http://csrv.tv:80/nfljr/tvn58/2185
+
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi FHD h265" tvg-logo="http://a5.vc/IHD" group-title=".42.HBO",HBO Mundi FHD h265
+http://csrv.tv:80/nfljr/tvn58/25439
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi FHD h265ª" tvg-logo="http://a5.vc/IHD" group-title=".42.HBO",HBO Mundi FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29456
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi FHD" tvg-logo="http://a5.vc/IHD" group-title=".42.HBO",HBO Mundi FHD
+http://csrv.tv:80/nfljr/tvn58/1986
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi FHDª" tvg-logo="http://a5.vc/IHD" group-title=".42.HBO",HBO Mundi FHDª
+http://csrv.tv:80/nfljr/tvn58/45173
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi HD" tvg-logo="http://a5.vc/IHD" group-title=".42.HBO",HBO Mundi HD
+http://csrv.tv:80/nfljr/tvn58/1791
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi HDª" tvg-logo="http://a5.vc/IHD" group-title=".42.HBO",HBO Mundi HDª
+http://csrv.tv:80/nfljr/tvn58/2355
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi SD" tvg-logo="http://a5.vc/IHD" group-title=".42.HBO",HBO Mundi SD
+http://csrv.tv:80/nfljr/tvn58/1792
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi SDª" tvg-logo="http://a5.vc/IHD" group-title=".42.HBO",HBO Mundi SDª
+http://csrv.tv:80/nfljr/tvn58/2178
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi SD leg" tvg-logo="http://a5.vc/9qE" group-title=".42.HBO",HBO Mundi SD leg
+http://csrv.tv:80/nfljr/tvn58/1520
+
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus FHD h265" tvg-logo="http://a5.vc/60H" group-title=".42.HBO",HBO Plus FHD h265
+http://csrv.tv:80/nfljr/tvn58/25444
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus FHD h265ª" tvg-logo="http://a5.vc/60H" group-title=".42.HBO",HBO Plus FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29462
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus FHD" tvg-logo="http://a5.vc/60H" group-title=".42.HBO",HBO Plus FHD
+http://csrv.tv:80/nfljr/tvn58/1991
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus FHDª" tvg-logo="http://a5.vc/60H" group-title=".42.HBO",HBO Plus FHDª
+http://csrv.tv:80/nfljr/tvn58/45227
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus HD" tvg-logo="http://a5.vc/60H" group-title=".42.HBO",HBO Plus HD
+http://csrv.tv:80/nfljr/tvn58/1803
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus HDª" tvg-logo="http://a5.vc/60H" group-title=".42.HBO",HBO Plus HDª
+http://csrv.tv:80/nfljr/tvn58/2359
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus HD leg" tvg-logo="http://a5.vc/60H" group-title=".42.HBO",HBO Plus HD leg
+http://csrv.tv:80/nfljr/tvn58/1523
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus SD" tvg-logo="http://a5.vc/60H" group-title=".42.HBO",HBO Plus SD
+http://csrv.tv:80/nfljr/tvn58/1804
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus SDª" tvg-logo="http://a5.vc/60H" group-title=".42.HBO",HBO Plus SDª
+http://csrv.tv:80/nfljr/tvn58/2183
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus SD leg" tvg-logo="http://a5.vc/60H" group-title=".42.HBO",HBO Plus SD leg
+http://csrv.tv:80/nfljr/tvn58/1522
+
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO Pop FHD h265" tvg-logo="http://a5.vc/Xrj" group-title=".42.HBO",HBO Pop FHD h265
+http://csrv.tv:80/nfljr/tvn58/25437
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO Pop FHD h265ª" tvg-logo="http://a5.vc/Xrj" group-title=".42.HBO",HBO Pop FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29409
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO Pop FHD" tvg-logo="http://a5.vc/Xrj" group-title=".42.HBO",HBO Pop FHD
+http://csrv.tv:80/nfljr/tvn58/1984
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO Pop FHDª" tvg-logo="http://a5.vc/Xrj" group-title=".42.HBO",HBO Pop FHDª
+http://csrv.tv:80/nfljr/tvn58/45175
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO Pop HD" tvg-logo="http://a5.vc/Xrj" group-title=".42.HBO",HBO Pop HD
+http://csrv.tv:80/nfljr/tvn58/1787
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO Pop HDª" tvg-logo="http://a5.vc/Xrj" group-title=".42.HBO",HBO Pop HDª
+http://csrv.tv:80/nfljr/tvn58/2353
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO Pop HD leg" tvg-logo="http://a5.vc/Rjw" group-title=".42.HBO",HBO Pop HD leg
+http://csrv.tv:80/nfljr/tvn58/1505
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO Pop SD" tvg-logo="http://a5.vc/Rjw" group-title=".42.HBO",HBO Pop SD
+http://csrv.tv:80/nfljr/tvn58/1788
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO Pop SDª" tvg-logo="http://a5.vc/Rjw" group-title=".42.HBO",HBO Pop SDª
+http://csrv.tv:80/nfljr/tvn58/2177
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO Pop SD leg" tvg-logo="http://a5.vc/Rjw" group-title=".42.HBO",HBO Pop SD leg
+http://csrv.tv:80/nfljr/tvn58/1504
+
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature FHD h265" tvg-logo="http://a5.vc/2N4" group-title=".42.HBO",HBO Signature FHD h265
+http://csrv.tv:80/nfljr/tvn58/25443
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature FHD h265ª" tvg-logo="http://a5.vc/2N4" group-title=".42.HBO",HBO Signature FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29461
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature FHD" tvg-logo="http://a5.vc/2N4" group-title=".42.HBO",HBO Signature FHD
+http://csrv.tv:80/nfljr/tvn58/1990
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature FHDª" tvg-logo="http://a5.vc/2N4" group-title=".42.HBO",HBO Signature FHDª
+http://csrv.tv:80/nfljr/tvn58/45166
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature HD" tvg-logo="http://a5.vc/2N4" group-title=".42.HBO",HBO Signature HD
+http://csrv.tv:80/nfljr/tvn58/1801
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature HDª" tvg-logo="http://a5.vc/2N4" group-title=".42.HBO",HBO Signature HDª
+http://csrv.tv:80/nfljr/tvn58/2358
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature SD" tvg-logo="http://a5.vc/2N4" group-title=".42.HBO",HBO Signature SD
+http://csrv.tv:80/nfljr/tvn58/1802
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature SDª" tvg-logo="http://a5.vc/2N4" group-title=".42.HBO",HBO Signature SDª
+http://csrv.tv:80/nfljr/tvn58/2181
+
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme FHD h265" tvg-logo="http://a5.vc/0aN" group-title=".42.HBO",HBO Xtreme FHD h265
+http://csrv.tv:80/nfljr/tvn58/25438
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme FHD h265ª" tvg-logo="http://a5.vc/0aN" group-title=".42.HBO",HBO Xtreme FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29455
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme FHD" tvg-logo="http://a5.vc/0aN" group-title=".42.HBO",HBO Xtreme FHD
+http://csrv.tv:80/nfljr/tvn58/1985
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme FHDª" tvg-logo="http://a5.vc/0aN" group-title=".42.HBO",HBO Xtreme FHDª
+http://csrv.tv:80/nfljr/tvn58/45174
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme HD" tvg-logo="http://a5.vc/0aN" group-title=".42.HBO",HBO Xtreme HD
+http://csrv.tv:80/nfljr/tvn58/1789
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme HDª" tvg-logo="http://a5.vc/0aN" group-title=".42.HBO",HBO Xtreme HDª
+http://csrv.tv:80/nfljr/tvn58/2354
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme SD" tvg-logo="http://a5.vc/0aN" group-title=".42.HBO",HBO Xtreme SD
+http://csrv.tv:80/nfljr/tvn58/1790
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme SDª" tvg-logo="http://a5.vc/0aN" group-title=".42.HBO",HBO Xtreme SDª
+http://csrv.tv:80/nfljr/tvn58/2179
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme SD leg" tvg-logo="http://a5.vc/ayn" group-title=".42.HBO",HBO Xtreme SD leg
+http://csrv.tv:80/nfljr/tvn58/1521
+##

@@ -1,0 +1,1101 @@
+#EXTM3U
+## SDª <- Alternativo; SD¹ <- Opção1; SD² <- Opção2; SD³ <- Opção3 ##
+##
+##----------------
+## 11 TV Aberta ##
+##----------------
+#EXTINF:-1 tvg-id="Sbtrede.br" tvg-name="TV Aratu HD" tvg-logo="http://a5.vc/FVo" group-title=".Canais",TV Aratu HD
+http://csrv.tv:80/nfljr/tvn58/42900
+#EXTINF:-1 tvg-id="Sbtrede.br" tvg-name="TV Aratu On¹" tvg-logo="http://a5.vc/FVo" group-title=".Canais",TV Aratu On¹
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Band.br" tvg-name="TV Band BA HD" tvg-logo="http://a5.vc/3pE" group-title=".Canais",TV Band BA HD
+http://csrv.tv:80/nfljr/tvn58/42973
+#EXTINF:-1 tvg-id="Band.br" tvg-name="TV Band BA SD" tvg-logo="http://a5.vc/3pE" group-title=".Canais",TV Band BA SD
+http://csrv.tv:80/nfljr/tvn58/30551
+
+#EXTINF:-1 tvg-id="TV Bahia" tvg-name="TV Bahia FHD" tvg-logo="http://a5.vc/3pv" group-title=".Canais",TV Bahia FHD
+http://csrv.tv:80/nfljr/tvn58/1576
+#EXTINF:-1 tvg-id="TV Bahia" tvg-name="TV Bahia HD" tvg-logo="http://a5.vc/3pv" group-title=".Canais",TV Bahia HD
+http://csrv.tv:80/nfljr/tvn58/1609
+#EXTINF:-1 tvg-id="TV Bahia" tvg-name="TV Bahia SD" tvg-logo="http://a5.vc/3pv" group-title=".Canais",TV Bahia SD
+http://csrv.tv:80/nfljr/tvn58/1610
+
+#EXTINF:-1 tvg-id="Sbtrede.br" tvg-name="TV Cidade Verde HD" tvg-logo="http://a5.vc/FVo" group-title=".Canais",TV Cidade Verde HD
+http://csrv.tv:80/nfljr/tvn58/48140
+#EXTINF:-1 tvg-id="Sbtrede.br" tvg-name="TV Cidade Verde HD¹" tvg-logo="http://a5.vc/FVo" group-title=".Canais",TV Cidade Verde HD¹
+https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/chunklist_w1654476730.m3u8
+
+#EXTINF:-1 tvg-id="Rede Clube" tvg-name="TV Clube PI FHD" tvg-logo="http://a5.vc/3pv" group-title=".Canais",TV Clube PI FHD
+http://csrv.tv:80/nfljr/tvn58/1591
+#EXTINF:-1 tvg-id="Rede Clube" tvg-name="TV Clube PI HD" tvg-logo="http://a5.vc/3pv" group-title=".Canais",TV Clube PI HD
+http://csrv.tv:80/nfljr/tvn58/1590
+#EXTINF:-1 tvg-id="Rede Clube" tvg-name="TV Clube PI SD" tvg-logo="http://a5.vc/3pv" group-title=".Canais",TV Clube PI SD
+http://csrv.tv:80/nfljr/tvn58/1592
+
+#EXTINF:-1 tvg-id="Recordtv.br" tvg-name="TV Record BA HD" tvg-logo="http://a5.vc/QOy" group-title=".Canais",TV Record BA HD
+http://csrv.tv:80/nfljr/tvn58/1665
+#EXTINF:-1 tvg-id="Recordtv.br" tvg-name="TV Record BA HD¹" tvg-logo="http://a5.vc/QOy" group-title=".Canais",TV Record BA HD¹
+http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8
+#EXTINF:-1 tvg-id="Recordtv.br" tvg-name="TV Record BA SD" tvg-logo="http://a5.vc/QOy" group-title=".Canais",TV Record BA SD
+http://csrv.tv:80/nfljr/tvn58/1664
+#EXTINF:-1 tvg-id="Recordtv.br" tvg-name="TV Record BA SD¹" tvg-logo="http://a5.vc/QOy" group-title=".Canais",TV Record BA SD¹
+http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_360_av-b.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-name="TVE Bahia SD" tvg-logo="https://listaiptv.gratis/logos/imagens/tve.jpg" group-title=".Canais",TVE Bahia HD
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+##
+##---------------
+## 12 Notícias ##
+##---------------
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News FHD h265" tvg-logo="http://a5.vc/eJG" group-title=".Canais",Band News FHD h265
+http://csrv.tv:80/nfljr/tvn58/25469
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News FHD h265ª" tvg-logo="http://a5.vc/eJG" group-title=".Canais",Band News FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29423
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News FHD" tvg-logo="http://a5.vc/eJG" group-title=".Canais",Band News FHD
+http://csrv.tv:80/nfljr/tvn58/2020
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News FHDª" tvg-logo="http://a5.vc/eJG" group-title=".Canais",Band News FHDª
+http://csrv.tv:80/nfljr/tvn58/45124
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News HD" tvg-logo="http://a5.vc/eJG" group-title=".Canais",Band News HD
+http://csrv.tv:80/nfljr/tvn58/1893
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News HDª" tvg-logo="http://a5.vc/eJG" group-title=".Canais",Band News HDª
+http://csrv.tv:80/nfljr/tvn58/2210
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News SDª" tvg-logo="http://a5.vc/eJG" group-title=".Canais",Band News SD
+http://csrv.tv:80/nfljr/tvn58/1894
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News SDª" tvg-logo="http://a5.vc/eJG" group-title=".Canais",Band News SDª
+http://csrv.tv:80/nfljr/tvn58/30553
+
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil FHD h265" tvg-logo="http://a5.vc/kBr" group-title=".Canais",CNN Brasil FHD h265
+http://csrv.tv:80/nfljr/tvn58/41990
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil FHD" tvg-logo="http://a5.vc/kBr" group-title=".Canais",CNN Brasil FHD
+http://csrv.tv:80/nfljr/tvn58/41605
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil FHDª" tvg-logo="http://a5.vc/kBr" group-title=".Canais",CNN Brasil FHDª
+http://csrv.tv:80/nfljr/tvn58/45228
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil HD" tvg-logo="http://a5.vc/kBr" group-title=".Canais",CNN Brasil HD
+http://csrv.tv:80/nfljr/tvn58/41606
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil HD" tvg-logo="http://a5.vc/kBr" group-title=".Canais",CNN Brasil HD¹
+https://streaming.cnnbrasil.com.br/cnndigital_main_Output2.m3u8
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil SD" tvg-logo="http://a5.vc/kBr" group-title=".Canais",CNN Brasil SD
+http://csrv.tv:80/nfljr/tvn58/41607
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil SD" tvg-logo="http://a5.vc/kBr" group-title=".Canais",CNN Brasil SD¹
+https://streaming.cnnbrasil.com.br:443/cnndigital_mainOutput4.m3u8
+
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="Globo News FHD h265" tvg-logo="http://a5.vc/Xmr" group-title=".Canais",Globo News FHD h265
+http://csrv.tv:80/nfljr/tvn58/25449
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="Globo News FHD h265ª" tvg-logo="http://a5.vc/Xmr" group-title=".Canais",Globo News FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29464
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="Globo News FHD" tvg-logo="http://a5.vc/Xmr" group-title=".Canais",Globo News FHD
+http://csrv.tv:80/nfljr/tvn58/1943
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="Globo News FHDª" tvg-logo="http://a5.vc/Xmr" group-title=".Canais",Globo News FHDª
+http://csrv.tv:80/nfljr/tvn58/45161
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="Globo News HD" tvg-logo="http://a5.vc/Xmr" group-title=".Canais",Globo News HD
+http://csrv.tv:80/nfljr/tvn58/1819
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="Globo News HDª" tvg-logo="http://a5.vc/Xmr" group-title=".Canais",Globo News HDª
+http://csrv.tv:80/nfljr/tvn58/2367
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="Globo News SD" tvg-logo="http://a5.vc/Xmr" group-title=".Canais",Globo News SD
+http://csrv.tv:80/nfljr/tvn58/1820
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="Globo News SDª" tvg-logo="http://a5.vc/Xmr" group-title=".Canais",Globo News SDª
+http://csrv.tv:80/nfljr/tvn58/2132
+
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News FHD h265" tvg-logo="http://a5.vc/DPD" group-title=".Canais",Record News FHD h265
+http://csrv.tv:80/nfljr/tvn58/25354
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News FHD" tvg-logo="http://a5.vc/DPD" group-title=".Canais",Record News FHD
+http://csrv.tv:80/nfljr/tvn58/1970
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News FHDª" tvg-logo="http://a5.vc/DPD" group-title=".Canais",Record News FHDª
+http://csrv.tv:80/nfljr/tvn58/45232
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News FHD¹" tvg-logo="http://a5.vc/DPD" group-title=".Canais",Record News FHD¹
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News HD" tvg-logo="http://a5.vc/DPD" group-title=".Canais",Record News HD
+http://csrv.tv:80/nfljr/tvn58/1745
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News HDª" tvg-logo="http://a5.vc/DPD" group-title=".Canais",Record News HDª
+http://csrv.tv:80/nfljr/tvn58/47448
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News HD¹" tvg-logo="http://a5.vc/DPD" group-title=".Canais",Record News HD¹
+http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-b.m3u8
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News SD" tvg-logo="http://a5.vc/DPD" group-title=".Canais",Record News SD
+http://csrv.tv:80/nfljr/tvn58/1746
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News SD¹" tvg-logo="http://a5.vc/DPD" group-title=".Canais",Record News SD¹
+http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-b.m3u8
+##
+##---------------
+## 21 Esportes ##
+##---------------
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports FHD h265" tvg-logo="http://a5.vc/j8Y" group-title=".Canais",Band Sports FHD h265
+http://csrv.tv:80/nfljr/tvn58/25468
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports FHD h265ª" tvg-logo="http://a5.vc/j8Y" group-title=".Canais",Band Sports FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29422
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports FHD" tvg-logo="http://a5.vc/j8Y" group-title=".Canais",Band Sports FHD
+http://csrv.tv:80/nfljr/tvn58/2019
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports FHDª" tvg-logo="http://a5.vc/j8Y" group-title=".Canais",Band Sports FHDª
+http://csrv.tv:80/nfljr/tvn58/45125
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports HD" tvg-logo="http://a5.vc/j8Y" group-title=".Canais",Band Sports HD
+http://csrv.tv:80/nfljr/tvn58/1891
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports HDª" tvg-logo="http://a5.vc/j8Y" group-title=".Canais",Band Sports HDª
+http://csrv.tv:80/nfljr/tvn58/2397
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports SD" tvg-logo="http://a5.vc/j8Y" group-title=".Canais",Band Sports SD
+http://csrv.tv:80/nfljr/tvn58/1892
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports SDª" tvg-logo="http://a5.vc/j8Y" group-title=".Canais",Band Sports SDª
+http://csrv.tv:80/nfljr/tvn58/2209
+
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 1 FHD h265" tvg-logo="http://a5.vc/8lJ" group-title=".Canais",ESPN 1 FHD h265
+http://csrv.tv:80/nfljr/tvn58/25386
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 1 FHD h265ª" tvg-logo="http://a5.vc/8lJ" group-title=".Canais",ESPN 1 FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29395
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 1 FHD" tvg-logo="http://a5.vc/8lJ" group-title=".Canais",ESPN 1 FHD
+http://csrv.tv:80/nfljr/tvn58/1947
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 1 FHDª" tvg-logo="http://a5.vc/8lJ" group-title=".Canais",ESPN 1 FHDª
+http://csrv.tv:80/nfljr/tvn58/45148
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 1 HD" tvg-logo="http://a5.vc/8lJ" group-title=".Canais",ESPN 1 HD
+http://csrv.tv:80/nfljr/tvn58/1841
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 1 HDª" tvg-logo="http://a5.vc/8lJ" group-title=".Canais",ESPN 1 HDª
+http://csrv.tv:80/nfljr/tvn58/2376
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 1 SD" tvg-logo="http://a5.vc/8lJ" group-title=".Canais",ESPN 1 SD
+http://csrv.tv:80/nfljr/tvn58/1848
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 1 SDª" tvg-logo="http://a5.vc/8lJ" group-title=".Canais",ESPN 1 SDª
+http://csrv.tv:80/nfljr/tvn58/2194
+
+#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2 FHD h265" tvg-logo="http://a5.vc/KCw" group-title=".Canais",ESPN 2 FHD h265
+http://csrv.tv:80/nfljr/tvn58/25458
+#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2 FHD h265ª" tvg-logo="http://a5.vc/KCw" group-title=".Canais",ESPN 2 FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29394
+#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2 FHD" tvg-logo="http://a5.vc/KCw" group-title=".Canais",ESPN 2 FHD
+http://csrv.tv:80/nfljr/tvn58/2004
+#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2 FHDª" tvg-logo="http://a5.vc/KCw" group-title=".Canais",ESPN 2 FHDª
+http://csrv.tv:80/nfljr/tvn58/45149
+#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2 HD" tvg-logo="http://a5.vc/KCw" group-title=".Canais",ESPN 2 HD
+http://csrv.tv:80/nfljr/tvn58/1846
+#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2 HDª" tvg-logo="http://a5.vc/KCw" group-title=".Canais",ESPN 2 HDª
+http://csrv.tv:80/nfljr/tvn58/2379
+#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2 SD" tvg-logo="http://a5.vc/KCw" group-title=".Canais",ESPN 2 SD
+http://csrv.tv:80/nfljr/tvn58/1847
+#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2 SDª" tvg-logo="http://a5.vc/KCw" group-title=".Canais",ESPN 2 SDª
+http://csrv.tv:80/nfljr/tvn58/2196
+
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil FHD h265" tvg-logo="http://a5.vc/YpF" group-title=".Canais",ESPN Brasil FHD h265
+http://csrv.tv:80/nfljr/tvn58/25387
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil FHD h265ª" tvg-logo="http://a5.vc/YpF" group-title=".Canais",ESPN Brasil FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29396
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil FHD" tvg-logo="http://a5.vc/YpF" group-title=".Canais",ESPN Brasil FHD
+http://csrv.tv:80/nfljr/tvn58/1948
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil FHDª" tvg-logo="http://a5.vc/YpF" group-title=".Canais",ESPN Brasil FHDª
+http://csrv.tv:80/nfljr/tvn58/45146
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil HD" tvg-logo="http://a5.vc/YpF" group-title=".Canais",ESPN Brasil HD
+http://csrv.tv:80/nfljr/tvn58/1844
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil HDª" tvg-logo="http://a5.vc/YpF" group-title=".Canais",ESPN Brasil HDª
+http://csrv.tv:80/nfljr/tvn58/2378
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil SD" tvg-logo="http://a5.vc/YpF" group-title=".Canais",ESPN Brasil SD
+http://csrv.tv:80/nfljr/tvn58/1845
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil SDª" tvg-logo="http://a5.vc/YpF" group-title=".Canais",ESPN Brasil SDª
+http://csrv.tv:80/nfljr/tvn58/2195
+
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra FHD h265" tvg-logo="http://a5.vc/i1l" group-title=".Canais",ESPN Extra FHD h265
+http://csrv.tv:80/nfljr/tvn58/25457
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra FHD h265ª" tvg-logo="http://a5.vc/i1l" group-title=".Canais",ESPN Extra FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29393
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra FHD" tvg-logo="http://a5.vc/i1l" group-title=".Canais",ESPN Extra FHD
+http://csrv.tv:80/nfljr/tvn58/2003
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra FHDª" tvg-logo="http://a5.vc/i1l" group-title=".Canais",ESPN Extra FHDª
+http://csrv.tv:80/nfljr/tvn58/45147
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra HD" tvg-logo="http://a5.vc/i1l" group-title=".Canais",ESPN Extra HD
+http://csrv.tv:80/nfljr/tvn58/1842
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra HDª" tvg-logo="http://a5.vc/i1l" group-title=".Canais",ESPN Extra HDª
+http://csrv.tv:80/nfljr/tvn58/2377
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra SD" tvg-logo="http://a5.vc/i1l" group-title=".Canais",ESPN Extra SD
+http://csrv.tv:80/nfljr/tvn58/1843
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra SDª" tvg-logo="http://a5.vc/i1l" group-title=".Canais",ESPN Extra SDª
+http://lista.lorddark.club:8080/4816879561/5445175358/19209
+
+#EXTINF:-1 tvg-id="Fossports.br" tvg-name="Fox Sports1 FHD h265" tvg-logo="http://a5.vc/55i" group-title=".Canais",Fox Sports1 FHD h265
+http://csrv.tv:80/nfljr/tvn58/25382
+#EXTINF:-1 tvg-id="Fossports.br" tvg-name="Fox Sports1 FHD h265ª" tvg-logo="http://a5.vc/55i" group-title=".Canais",Fox Sports1 FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29466
+#EXTINF:-1 tvg-id="Fossports.br" tvg-name="Fox Sports1 FHD" tvg-logo="http://a5.vc/55i" group-title=".Canais",Fox Sports1 FHD
+http://csrv.tv:80/nfljr/tvn58/1944
+#EXTINF:-1 tvg-id="Fossports.br" tvg-name="Fox Sports1 FHDª" tvg-logo="http://a5.vc/55i" group-title=".Canais",Fox Sports1 FHDª
+http://csrv.tv:80/nfljr/tvn58/45158
+#EXTINF:-1 tvg-id="Fossports.br" tvg-name="Fox Sports1 HD" tvg-logo="http://a5.vc/55i" group-title=".Canais",Fox Sports1 HD
+http://csrv.tv:80/nfljr/tvn58/1827
+#EXTINF:-1 tvg-id="Fossports.br" tvg-name="Fox Sports1 HDª" tvg-logo="http://a5.vc/55i" group-title=".Canais",Fox Sports1 HDª
+http://csrv.tv:80/nfljr/tvn58/2369
+#EXTINF:-1 tvg-id="Fossports.br" tvg-name="Fox Sports1 SD" tvg-logo="http://a5.vc/55i" group-title=".Canais",Fox Sports1 SD
+http://csrv.tv:80/nfljr/tvn58/1828
+#EXTINF:-1 tvg-id="Fossports.br" tvg-name="Fox Sports1 SDª" tvg-logo="http://a5.vc/55i" group-title=".Canais",Fox Sports1 SDª
+http://csrv.tv:80/nfljr/tvn58/2190
+
+#EXTINF:-1 tvg-id="Fossports2.br" tvg-name="Fox Sports2 FHD h265" tvg-logo="http://a5.vc/DXo" group-title=".Canais",Fox Sports2 FHD h265
+http://csrv.tv:80/nfljr/tvn58/25383
+#EXTINF:-1 tvg-id="Fossports2.br" tvg-name="Fox Sports2 FHD h265ª" tvg-logo="http://a5.vc/DXo" group-title=".Canais",Fox Sports2 FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29467
+#EXTINF:-1 tvg-id="Fossports2.br" tvg-name="Fox Sports2 FHD" tvg-logo="http://a5.vc/DXo" group-title=".Canais",Fox Sports2 FHD
+http://csrv.tv:80/nfljr/tvn58/1945
+#EXTINF:-1 tvg-id="Fossports2.br" tvg-name="Fox Sports2 FHDª" tvg-logo="http://a5.vc/DXo" group-title=".Canais",Fox Sports2 FHDª
+http://csrv.tv:80/nfljr/tvn58/45157
+#EXTINF:-1 tvg-id="Fossports2.br" tvg-name="Fox Sports2 HD" tvg-logo="http://a5.vc/DXo" group-title=".Canais",Fox Sports2 HD
+http://csrv.tv:80/nfljr/tvn58/1825
+#EXTINF:-1 tvg-id="Fossports2.br" tvg-name="Fox Sports2 HDª" tvg-logo="http://a5.vc/DXo" group-title=".Canais",Fox Sports2 HDª
+http://csrv.tv:80/nfljr/tvn58/2370
+#EXTINF:-1 tvg-id="Fossports2.br" tvg-name="Fox Sports2 SD" tvg-logo="http://a5.vc/DXo" group-title=".Canais",Fox Sports2 SD
+http://csrv.tv:80/nfljr/tvn58/1826
+#EXTINF:-1 tvg-id="Fossports2.br" tvg-name="Fox Sports2 SDª" tvg-logo="http://a5.vc/DXo" group-title=".Canais",Fox Sports2 SDª
+http://csrv.tv:80/nfljr/tvn58/2191
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV1 FHD h265" tvg-logo="http://a5.vc/cii" group-title=".Canais",SporTV1 FHD h265
+http://csrv.tv:80/nfljr/tvn58/25417
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV1 FHD h265ª" tvg-logo="http://a5.vc/cii" group-title=".Canais",SporTV1 FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29437
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV1 FHD" tvg-logo="http://a5.vc/cii" group-title=".Canais",SporTV1 FHD
+http://csrv.tv:80/nfljr/tvn58/1928
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV1 FHDª" tvg-logo="http://a5.vc/cii" group-title=".Canais",SporTV1 FHDª
+http://csrv.tv:80/nfljr/tvn58/45199
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV1 HD" tvg-logo="http://a5.vc/cii" group-title=".Canais",SporTV1 HD
+http://csrv.tv:80/nfljr/tvn58/1726
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV1 HDª" tvg-logo="http://a5.vc/cii" group-title=".Canais",SporTV1 HDª
+http://csrv.tv:80/nfljr/tvn58/2330
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV1 SD" tvg-logo="http://a5.vc/cii" group-title=".Canais",SporTV1 SD
+http://csrv.tv:80/nfljr/tvn58/1731
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV1 SDª" tvg-logo="http://a5.vc/cii" group-title=".Canais",SporTV1 SDª
+http://csrv.tv:80/nfljr/tvn58/2154
+
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV2 FHD h265" tvg-logo="http://a5.vc/YO7" group-title=".Canais",SporTV2 FHD h265
+http://csrv.tv:80/nfljr/tvn58/25419
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV2 FHD h265ª" tvg-logo="http://a5.vc/YO7" group-title=".Canais",SporTV2 FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29439
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV2 FHD" tvg-logo="http://a5.vc/YO7" group-title=".Canais",SporTV2 FHD
+http://csrv.tv:80/nfljr/tvn58/1930
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV2 FHDª" tvg-logo="http://a5.vc/YO7" group-title=".Canais",SporTV2 FHDª
+http://csrv.tv:80/nfljr/tvn58/45200
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV2 HD" tvg-logo="http://a5.vc/YO7" group-title=".Canais",SporTV2 HD
+http://csrv.tv:80/nfljr/tvn58/1729
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV2 HDª" tvg-logo="http://a5.vc/YO7" group-title=".Canais",SporTV2 HDª
+http://csrv.tv:80/nfljr/tvn58/2332
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV2 SD" tvg-logo="http://a5.vc/YO7" group-title=".Canais",SporTV2 SD
+http://csrv.tv:80/nfljr/tvn58/1730
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV2 SDª" tvg-logo="http://a5.vc/YO7" group-title=".Canais",SporTV2 SDª
+http://csrv.tv:80/nfljr/tvn58/2155
+
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV3 FHD h265" tvg-logo="http://a5.vc/ybu" group-title=".Canais",SporTV3 FHD h265
+http://csrv.tv:80/nfljr/tvn58/25418
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV3 FHD h265ª" tvg-logo="http://a5.vc/ybu" group-title=".Canais",SporTV3 FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29438
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV3 FHD" tvg-logo="http://a5.vc/ybu" group-title=".Canais",SporTV3 FHD
+http://csrv.tv:80/nfljr/tvn58/1929
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV3 FHDª" tvg-logo="http://a5.vc/ybu" group-title=".Canais",SporTV3 FHDª
+http://csrv.tv:80/nfljr/tvn58/45201
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV3 HD" tvg-logo="http://a5.vc/ybu" group-title=".Canais",SporTV3 HD
+http://csrv.tv:80/nfljr/tvn58/1727
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV3 HDª" tvg-logo="http://a5.vc/ybu" group-title=".Canais",SporTV3 HDª
+http://csrv.tv:80/nfljr/tvn58/2331
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV3 SD" tvg-logo="http://a5.vc/ybu" group-title=".Canais",SporTV3 SD
+http://csrv.tv:80/nfljr/tvn58/1728
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV3 SDª" tvg-logo="http://a5.vc/ybu" group-title=".Canais",SporTV3 SDª
+http://csrv.tv:80/nfljr/tvn58/2131
+
+#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 1 HD" tvg-logo="http://a5.vc/6qb" group-title=".Canais",DAZN 1 HD
+http://csrv.tv:80/nfljr/tvn58/1642
+#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 2 HD" tvg-logo="http://a5.vc/6qb" group-title=".Canais",DAZN 2 HD
+http://csrv.tv:80/nfljr/tvn58/1641
+#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 3 HD" tvg-logo="http://a5.vc/6qb" group-title=".Canais",DAZN 3 HD
+http://csrv.tv:80/nfljr/tvn58/1640
+#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 4 HD" tvg-logo="http://a5.vc/6qb" group-title=".Canais",DAZN 4 HD
+http://csrv.tv:80/nfljr/tvn58/36648
+#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 5 HD" tvg-logo="http://a5.vc/6qb" group-title=".Canais",DAZN 5 HD
+http://csrv.tv:80/nfljr/tvn58/36649
+#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 6 HD" tvg-logo="http://a5.vc/6qb" group-title=".Canais",DAZN 6 HD
+http://csrv.tv:80/nfljr/tvn58/36650
+##
+##-----------------
+## 31 Variedades ##
+##-----------------
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central FHD h265" tvg-logo="http://a5.vc/mT5" group-title=".Canais",Comedy Central FHD h265
+http://csrv.tv:80/nfljr/tvn58/25460
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central FHD h265ª" tvg-logo="http://a5.vc/mT5" group-title=".Canais",Comedy Central FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29476
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central FHD" tvg-logo="http://a5.vc/mT5" group-title=".Canais",Comedy Central FHD
+http://csrv.tv:80/nfljr/tvn58/2014
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central FHDª" tvg-logo="http://a5.vc/mT5" group-title=".Canais",Comedy Central FHDª
+http://csrv.tv:80/nfljr/tvn58/45133
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central HD" tvg-logo="http://a5.vc/mT5" group-title=".Canais",Comedy Central HD
+http://csrv.tv:80/nfljr/tvn58/1873
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central HDª" tvg-logo="http://a5.vc/mT5" group-title=".Canais",Comedy Central HDª
+http://csrv.tv:80/nfljr/tvn58/2391
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central SD" tvg-logo="http://a5.vc/mT5" group-title=".Canais",Comedy Central SD
+http://csrv.tv:80/nfljr/tvn58/1874
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central SDª" tvg-logo="http://a5.vc/mT5" group-title=".Canais",Comedy Central SDª
+http://csrv.tv:80/nfljr/tvn58/2205
+
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD h265" tvg-logo="http://a5.vc/scT" group-title=".Canais",GNT FHD h265
+http://csrv.tv:80/nfljr/tvn58/25379
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD h265ª" tvg-logo="http://a5.vc/scT" group-title=".Canais",GNT FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29412
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD" tvg-logo="http://a5.vc/scT" group-title=".Canais",GNT FHD
+http://csrv.tv:80/nfljr/tvn58/1994
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHDª" tvg-logo="http://a5.vc/scT" group-title=".Canais",GNT FHDª
+http://csrv.tv:80/nfljr/tvn58/45163
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="http://a5.vc/scT" group-title=".Canais",GNT HD
+http://csrv.tv:80/nfljr/tvn58/1813
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HDª" tvg-logo="http://a5.vc/scT" group-title=".Canais",GNT HDª
+http://csrv.tv:80/nfljr/tvn58/2364
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD" tvg-logo="http://a5.vc/scT" group-title=".Canais",GNT SD
+http://csrv.tv:80/nfljr/tvn58/1814
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SDª" tvg-logo="http://a5.vc/scT" group-title=".Canais",GNT SDª
+http://csrv.tv:80/nfljr/tvn58/2120
+
+#EXTINF:-1 tvg-id="History2.br" tvg-name="History2 FHD h265" tvg-logo="http://a5.vc/Zwg" group-title=".Canais",History2 FHD h265
+http://csrv.tv:80/nfljr/tvn58/25378
+#EXTINF:-1 tvg-id="History2.br" tvg-name="History2 FHD h265ª" tvg-logo="http://a5.vc/Zwg" group-title=".Canais",History2 FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29463
+#EXTINF:-1 tvg-id="History2.br" tvg-name="History2 FHD" tvg-logo="http://a5.vc/Zwg" group-title=".Canais",History2 FHD
+http://csrv.tv:80/nfljr/tvn58/1993
+#EXTINF:-1 tvg-id="History2.br" tvg-name="History2 FHDª" tvg-logo="http://a5.vc/Zwg" group-title=".Canais",History2 FHDª
+http://csrv.tv:80/nfljr/tvn58/45168
+#EXTINF:-1 tvg-id="History2.br" tvg-name="History2 HD" tvg-logo="http://a5.vc/Zwg" group-title=".Canais",History2 HD
+http://csrv.tv:80/nfljr/tvn58/1811
+#EXTINF:-1 tvg-id="History2.br" tvg-name="History2 HDª" tvg-logo="http://a5.vc/Zwg" group-title=".Canais",History2 HDª
+http://csrv.tv:80/nfljr/tvn58/2363
+#EXTINF:-1 tvg-id="History2.br" tvg-name="History2 SD" tvg-logo="http://a5.vc/Zwg" group-title=".Canais",History2 SD
+http://csrv.tv:80/nfljr/tvn58/1812
+#EXTINF:-1 tvg-id="History2.br" tvg-name="History2 SDª" tvg-logo="http://a5.vc/Zwg" group-title=".Canais",History2 SDª
+http://csrv.tv:80/nfljr/tvn58/2186
+
+#EXTINF:-1 tvg-id="Maisglobosat.br" tvg-name="Mais Globosat FHD h265" tvg-logo="http://a5.vc/e5K" group-title=".Canais",Mais Globosat FHD h265
+http://csrv.tv:80/nfljr/tvn58/25440
+#EXTINF:-1 tvg-id="Maisglobosat.br" tvg-name="Mais Globosat FHD h265ª" tvg-logo="http://a5.vc/e5K" group-title=".Canais",Mais Globosat FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29399
+#EXTINF:-1 tvg-id="Maisglobosat.br" tvg-name="Mais Globosat FHD" tvg-logo="http://a5.vc/e5K" group-title=".Canais",Mais GloboSat FHD
+http://csrv.tv:80/nfljr/tvn58/1921
+#EXTINF:-1 tvg-id="Maisglobosat.br" tvg-name="Mais Globosat FHDª" tvg-logo="http://a5.vc/e5K" group-title=".Canais",Mais Globosat FHDª
+http://csrv.tv:80/nfljr/tvn58/45172
+#EXTINF:-1 tvg-id="Maisglobosat.br" tvg-name="Mais Globosat HD" tvg-logo="http://a5.vc/e5K" group-title=".Canais",Mais GloboSat HD
+http://csrv.tv:80/nfljr/tvn58/1793
+#EXTINF:-1 tvg-id="Maisglobosat.br" tvg-name="Mais Globosat HDª" tvg-logo="http://a5.vc/e5K" group-title=".Canais",Mais GloboSat HDª
+http://csrv.tv:80/nfljr/tvn58/2366
+#EXTINF:-1 tvg-id="Maisglobosat.br" tvg-name="Mais Globosat SD" tvg-logo="http://a5.vc/e5K" group-title=".Canais",Mais GloboSat SD
+http://csrv.tv:80/nfljr/tvn58/1794
+#EXTINF:-1 tvg-id="Maisglobosat.br" tvg-name="Mais Globosat SDª" tvg-logo="http://a5.vc/e5K" group-title=".Canais",Mais GloboSat SDª
+http://csrv.tv:80/nfljr/tvn58/2188
+
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow FHD h265" tvg-logo="http://a5.vc/Uet" group-title=".Canais",Multishow FHD h265
+http://csrv.tv:80/nfljr/tvn58/25375
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow FHD h265ª" tvg-logo="http://a5.vc/Uet" group-title=".Canais",Multishow FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29453
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow FHD" tvg-logo="http://a5.vc/Uet" group-title=".Canais",Multishow FHD
+http://csrv.tv:80/nfljr/tvn58/1980
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow FHDª" tvg-logo="http://a5.vc/Uet" group-title=".Canais",Multishow FHDª
+http://csrv.tv:80/nfljr/tvn58/45179
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD" tvg-logo="http://a5.vc/Uet" group-title=".Canais",Multishow HD
+http://csrv.tv:80/nfljr/tvn58/1781
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HDª" tvg-logo="http://a5.vc/Uet" group-title=".Canais",Multishow HDª
+http://csrv.tv:80/nfljr/tvn58/2350
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow SD" tvg-logo="http://a5.vc/Uet" group-title=".Canais",Multishow SD
+http://csrv.tv:80/nfljr/tvn58/1782
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow SDª" tvg-logo="http://a5.vc/Uet" group-title=".Canais",Multishow SDª
+http://csrv.tv:80/nfljr/tvn58/2175
+
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva FHD h265" tvg-logo="http://a5.vc/Qin" group-title=".Canais",Viva FHD h265
+http://csrv.tv:80/nfljr/tvn58/25402
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva FHD" tvg-logo="http://a5.vc/Qin" group-title=".Canais",Viva FHD
+http://csrv.tv:80/nfljr/tvn58/1922
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva FHDª" tvg-logo="http://a5.vc/Qin" group-title=".Canais",Viva FHDª
+http://csrv.tv:80/nfljr/tvn58/45220
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva HD" tvg-logo="http://a5.vc/Qin" group-title=".Canais",Viva HD
+http://csrv.tv:80/nfljr/tvn58/1683
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva HDª" tvg-logo="http://a5.vc/Qin" group-title=".Canais",Viva HDª
+http://csrv.tv:80/nfljr/tvn58/2314
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva SD" tvg-logo="http://a5.vc/Qin" group-title=".Canais",Viva SD
+http://csrv.tv:80/nfljr/tvn58/1684
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva SDª" tvg-logo="http://a5.vc/Qin" group-title=".Canais",Viva SDª
+http://csrv.tv:80/nfljr/tvn58/2135
+##
+##--------------------
+## 41 Filmes&Séries ##
+##--------------------
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD h265" tvg-logo="http://a5.vc/JHX" group-title=".Canais",A&E FHD h265
+http://csrv.tv:80/nfljr/tvn58/25400
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD h265ª" tvg-logo="http://a5.vc/JHX" group-title=".Canais",A&E FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29484
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="http://a5.vc/JHX" group-title=".Canais",A&E FHD
+http://csrv.tv:80/nfljr/tvn58/2025
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHDª" tvg-logo="http://a5.vc/JHX" group-title=".Canais",A&E FHDª
+http://csrv.tv:80/nfljr/tvn58/45236
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="http://a5.vc/JHX" group-title=".Canais",A&E HD
+http://csrv.tv:80/nfljr/tvn58/1906
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HDª" tvg-logo="http://a5.vc/JHX" group-title=".Canais",A&E HDª
+http://csrv.tv:80/nfljr/tvn58/2402
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="http://a5.vc/JHX" group-title=".Canais",A&E SD
+http://csrv.tv:80/nfljr/tvn58/1907
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SDª" tvg-logo="http://a5.vc/JHX" group-title=".Canais",A&E SDª
+http://csrv.tv:80/nfljr/tvn58/2215
+
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD h265" tvg-logo="http://a5.vc/Xun" group-title=".Canais",AMC FHD h265
+http://csrv.tv:80/nfljr/tvn58/25399
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD h265ª" tvg-logo="http://a5.vc/Xun" group-title=".Canais",AMC FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29483
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="http://a5.vc/Xun" group-title=".Canais",AMC FHD
+http://csrv.tv:80/nfljr/tvn58/2024
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHDª" tvg-logo="http://a5.vc/Xun" group-title=".Canais",AMC FHDª
+http://csrv.tv:80/nfljr/tvn58/45237
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="http://a5.vc/Xun" group-title=".Canais",AMC HD
+http://csrv.tv:80/nfljr/tvn58/1904
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HDª" tvg-logo="http://a5.vc/Xun" group-title=".Canais",AMC HDª
+http://csrv.tv:80/nfljr/tvn58/2401
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="http://a5.vc/Xun" group-title=".Canais",AMC SD
+http://csrv.tv:80/nfljr/tvn58/1905
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SDª" tvg-logo="http://a5.vc/Xun" group-title=".Canais",AMC SDª
+http://csrv.tv:80/nfljr/tvn58/2214
+
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD h265" tvg-logo="http://a5.vc/dbM" group-title=".Canais",AXN FHD h265
+http://csrv.tv:80/nfljr/tvn58/25470
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD h265ª" tvg-logo="http://a5.vc/dbM" group-title=".Canais",AXN FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29481
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="http://a5.vc/dbM" group-title=".Canais",AXN FHD
+http://csrv.tv:80/nfljr/tvn58/2021
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHDª" tvg-logo="http://a5.vc/dbM" group-title=".Canais",AXN FHDª
+http://csrv.tv:80/nfljr/tvn58/45240
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="http://a5.vc/dbM" group-title=".Canais",AXN HD
+http://csrv.tv:80/nfljr/tvn58/1898
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HDª" tvg-logo="http://a5.vc/dbM" group-title=".Canais",AXN HDª
+http://csrv.tv:80/nfljr/tvn58/2399
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD leg" tvg-logo="http://a5.vc/dbM" group-title=".Canais",AXN HD leg
+http://csrv.tv:80/nfljr/tvn58/1529
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="http://a5.vc/dbM" group-title=".Canais",AXN SD
+http://csrv.tv:80/nfljr/tvn58/1899
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SDª" tvg-logo="http://a5.vc/dbM" group-title=".Canais",AXN SDª
+http://csrv.tv:80/nfljr/tvn58/2212
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD leg" tvg-logo="http://a5.vc/dbM" group-title=".Canais",AXN SD leg
+http://csrv.tv:80/nfljr/tvn58/1528
+
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax FHD h265" tvg-logo="http://a5.vc/j8T" group-title=".Canais",Cinemax FHD h265
+http://csrv.tv:80/nfljr/tvn58/25462
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax FHD h265ª" tvg-logo="http://a5.vc/j8T" group-title=".Canais",Cinemax FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29478
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax FHD" tvg-logo="http://a5.vc/j8T" group-title=".Canais",Cinemax FHD
+http://csrv.tv:80/nfljr/tvn58/2015
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax FHDª" tvg-logo="http://a5.vc/j8T" group-title=".Canais",Cinemax FHDª
+http://csrv.tv:80/nfljr/tvn58/45131
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax HD" tvg-logo="http://a5.vc/j8T" group-title=".Canais",Cinemax HD
+http://csrv.tv:80/nfljr/tvn58/1877
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax HDª" tvg-logo="http://a5.vc/j8T" group-title=".Canais",Cinemax HDª
+http://csrv.tv:80/nfljr/tvn58/2393
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax SD" tvg-logo="http://a5.vc/j8T" group-title=".Canais",Cinemax SD
+http://csrv.tv:80/nfljr/tvn58/1878
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax SDª" tvg-logo="http://a5.vc/j8T" group-title=".Canais",Cinemax SDª
+http://csrv.tv:80/nfljr/tvn58/2130
+
+#EXTINF:-1 tvg-id="Foxchannel.br" tvg-name="Fox Channel FHD h265" tvg-logo="http://a5.vc/Ck2" group-title=".Canais",Fox Channel FHD h265
+http://csrv.tv:80/nfljr/tvn58/25455
+#EXTINF:-1 tvg-id="Foxchannel.br" tvg-name="Fox Channel FHD h265ª" tvg-logo="http://a5.vc/Ck2" group-title=".Canais",Fox Channel FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29468
+#EXTINF:-1 tvg-id="Foxchannel.br" tvg-name="Fox Channel FHD" tvg-logo="http://a5.vc/Ck2" group-title=".Canais",Fox Channel FHD
+http://csrv.tv:80/nfljr/tvn58/1946
+#EXTINF:-1 tvg-id="Foxchannel.br" tvg-name="Fox Channel FHDª" tvg-logo="http://a5.vc/Ck2" group-title=".Canais",Fox Channel FHDª
+http://csrv.tv:80/nfljr/tvn58/45153
+#EXTINF:-1 tvg-id="Foxchannel.br" tvg-name="Fox Channel HD" tvg-logo="http://a5.vc/Ck2" group-title=".Canais",Fox Channel HD
+http://csrv.tv:80/nfljr/tvn58/1835
+#EXTINF:-1 tvg-id="Foxchannel.br" tvg-name="Fox Channel HDª" tvg-logo="http://a5.vc/Ck2" group-title=".Canais",Fox Channel HDª
+http://csrv.tv:80/nfljr/tvn58/2374
+#EXTINF:-1 tvg-id="Foxchannel.br" tvg-name="Fox Channel HD leg" tvg-logo="http://a5.vc/Ck2" group-title=".Canais",Fox Channel HD leg
+http://csrv.tv:80/nfljr/tvn58/1527
+#EXTINF:-1 tvg-id="Foxchannel.br" tvg-name="Fox Channel SD" tvg-logo="http://a5.vc/Ck2" group-title=".Canais",Fox Channel SD
+http://csrv.tv:80/nfljr/tvn58/1836
+#EXTINF:-1 tvg-id="Foxchannel.br" tvg-name="Fox Channel SDª" tvg-logo="http://a5.vc/Ck2" group-title=".Canais",Fox Channel SDª
+http://csrv.tv:80/nfljr/tvn58/2192
+#EXTINF:-1 tvg-id="Foxchannel.br" tvg-name="Fox Channel SD leg" tvg-logo="http://a5.vc/Ck2" group-title=".Canais",Fox Channel SD leg
+http://csrv.tv:80/nfljr/tvn58/1526
+
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Fox Life FHD h265" tvg-logo="http://a5.vc/OVC" group-title=".Canais",Fox Life FHD h265
+http://csrv.tv:80/nfljr/tvn58/25454
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Fox Life FHD" tvg-logo="http://a5.vc/OVC" group-title=".Canais",Fox Life FHD
+http://csrv.tv:80/nfljr/tvn58/2000
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Fox Life FHDª" tvg-logo="http://a5.vc/OVC" group-title=".Canais",Fox Life FHDª
+http://csrv.tv:80/nfljr/tvn58/45154
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Fox Life HD" tvg-logo="http://a5.vc/OVC" group-title=".Canais",Fox Life HD
+http://csrv.tv:80/nfljr/tvn58/1833
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Fox Life HDª" tvg-logo="http://a5.vc/OVC" group-title=".Canais",Fox Life HDª
+http://csrv.tv:80/nfljr/tvn58/2373
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Fox Life SD" tvg-logo="http://a5.vc/OVC" group-title=".Canais",Fox Life SD
+http://csrv.tv:80/nfljr/tvn58/1834
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Fox Life SDª" tvg-logo="http://a5.vc/OVC" group-title=".Canais",Fox Life SDª
+http://csrv.tv:80/nfljr/tvn58/2193
+
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Fox Premium1 FHD h265" tvg-logo="http://a5.vc/3gn" group-title=".Canais",Fox Premium1 FHD h265
+http://csrv.tv:80/nfljr/tvn58/25453
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Fox Premium1 FHD h265ª" tvg-logo="http://a5.vc/3gn" group-title=".Canais",Fox Premium1 FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29415
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Fox Premium1 FHD" tvg-logo="http://a5.vc/3gn" group-title=".Canais",Fox Premium1 FHD
+http://csrv.tv:80/nfljr/tvn58/1999
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Fox Premium1 FHDª" tvg-logo="http://a5.vc/3gn" group-title=".Canais",Fox Premium1 FHDª
+http://csrv.tv:80/nfljr/tvn58/45155
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Fox Premium1 HD" tvg-logo="http://a5.vc/3gn" group-title=".Canais",Fox Premium1 HD
+http://csrv.tv:80/nfljr/tvn58/1831
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Fox Premium1 HDª" tvg-logo="http://a5.vc/3gn" group-title=".Canais",Fox Premium1 HDª
+http://csrv.tv:80/nfljr/tvn58/2372
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Fox Premium1 SD" tvg-logo="http://a5.vc/3gn" group-title=".Canais",Fox Premium1 SD
+http://csrv.tv:80/nfljr/tvn58/1832
+
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="Fox Premium2 FHD h265" tvg-logo="http://a5.vc/0ud" group-title=".Canais",Fox Premium2 FHD h265
+http://csrv.tv:80/nfljr/tvn58/25452
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="Fox Premium2 FHD h265ª" tvg-logo="http://a5.vc/3gn" group-title=".Canais",Fox Premium2 FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29414
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="Fox Premium2 FHD" tvg-logo="http://a5.vc/0ud" group-title=".Canais",Fox Premium2 FHD
+http://csrv.tv:80/nfljr/tvn58/1998
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="Fox Premium2 FHDª" tvg-logo="http://a5.vc/3gn" group-title=".Canais",Fox Premium2 FHDª
+http://csrv.tv:80/nfljr/tvn58/45156
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="Fox Premium2 HD" tvg-logo="http://a5.vc/0ud" group-title=".Canais",Fox Premium2 HD
+http://csrv.tv:80/nfljr/tvn58/1829
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="Fox Premium2 HDª" tvg-logo="http://a5.vc/0ud" group-title=".Canais",Fox Premium2 HDª
+http://csrv.tv:80/nfljr/tvn58/2371
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="Fox Premium2 SDª" tvg-logo="http://a5.vc/0ud" group-title=".Canais",Fox Premium2 SD
+http://csrv.tv:80/nfljr/tvn58/1830
+
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD h265" tvg-logo="http://a5.vc/JsW" group-title=".Canais",FX FHD h265
+http://csrv.tv:80/nfljr/tvn58/25450
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD h265ª" tvg-logo="http://a5.vc/JsW" group-title=".Canais",FX FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29465
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD" tvg-logo="http://a5.vc/JsW" group-title=".Canais",FX FHD
+http://csrv.tv:80/nfljr/tvn58/1996
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHDª" tvg-logo="http://a5.vc/JsW" group-title=".Canais",FX FHDª
+http://csrv.tv:80/nfljr/tvn58/45160
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="http://a5.vc/JsW" group-title=".Canais",FX HD
+http://csrv.tv:80/nfljr/tvn58/1821
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HDª" tvg-logo="http://a5.vc/JsW" group-title=".Canais",FX HDª
+http://csrv.tv:80/nfljr/tvn58/2368
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD leg" tvg-logo="http://a5.vc/JsW" group-title=".Canais",FX HD leg
+http://csrv.tv:80/nfljr/tvn58/1507
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="http://a5.vc/JsW" group-title=".Canais",FX SD
+http://csrv.tv:80/nfljr/tvn58/1822
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SDª" tvg-logo="http://a5.vc/JsW" group-title=".Canais",FX SDª
+http://csrv.tv:80/nfljr/tvn58/2118
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD leg" tvg-logo="http://a5.vc/JsW" group-title=".Canais",FX SD leg
+http://csrv.tv:80/nfljr/tvn58/1506
+
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime FHD h265" tvg-logo="http://a5.vc/ecn" group-title=".Canais",Lifetime FHD h265
+http://csrv.tv:80/nfljr/tvn58/25441
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime FHD h265ª" tvg-logo="http://a5.vc/ecn" group-title=".Canais",Lifetime FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29457
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime FHD" tvg-logo="http://a5.vc/ecn" group-title=".Canais",Lifetime FHD
+http://csrv.tv:80/nfljr/tvn58/1987
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime FHDª" tvg-logo="http://a5.vc/ecn" group-title=".Canais",Lifetime FHDª
+http://csrv.tv:80/nfljr/tvn58/45171
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime HD" tvg-logo="http://a5.vc/ecn" group-title=".Canais",Lifetime HD
+http://csrv.tv:80/nfljr/tvn58/1795
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime HDª" tvg-logo="http://a5.vc/ecn" group-title=".Canais",Lifetime HDª
+http://csrv.tv:80/nfljr/tvn58/2356
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime SD" tvg-logo="http://a5.vc/ecn" group-title=".Canais",Lifetime SD
+http://csrv.tv:80/nfljr/tvn58/1796
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime SDª" tvg-logo="http://a5.vc/ecn" group-title=".Canais",Lifetime SDª
+http://csrv.tv:80/nfljr/tvn58/2180
+
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix FHD h265" tvg-logo="http://a5.vc/HYL" group-title=".Canais",Megapix FHD h265
+http://csrv.tv:80/nfljr/tvn58/25436
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix FHDª" tvg-logo="http://a5.vc/HYL" group-title=".Canais",Megapix FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29408
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix FHD" tvg-logo="http://a5.vc/HYL" group-title=".Canais",Megapix FHD
+http://csrv.tv:80/nfljr/tvn58/1983
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix FHDª" tvg-logo="http://a5.vc/HYL" group-title=".Canais",Megapix FHDª
+http://csrv.tv:80/nfljr/tvn58/45176
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix HD" tvg-logo="http://a5.vc/HYL" group-title=".Canais",Megapix HD
+http://csrv.tv:80/nfljr/tvn58/1785
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix HDª" tvg-logo="http://a5.vc/HYL" group-title=".Canais",Megapix HDª
+http://csrv.tv:80/nfljr/tvn58/2352
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix HD leg" tvg-logo="http://a5.vc/HYL" group-title=".Canais",Megapix HD leg
+http://csrv.tv:80/nfljr/tvn58/1503
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix SD" tvg-logo="http://a5.vc/HYL" group-title=".Canais",Megapix SD
+http://csrv.tv:80/nfljr/tvn58/1786
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix SD" tvg-logo="http://a5.vc/HYL" group-title=".Canais",Megapix SDª
+http://csrv.tv:80/nfljr/tvn58/2176
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix SD leg" tvg-logo="http://a5.vc/HYL" group-title=".Canais",Megapix SD leg
+http://csrv.tv:80/nfljr/tvn58/1502
+
+#EXTINF:-1 tvg-id="Paramountchannel.br" tvg-name="Paramount FHD h265" tvg-logo="http://a5.vc/uRn" group-title=".Canais",Paramount FHD h265
+http://csrv.tv:80/nfljr/tvn58/25428
+#EXTINF:-1 tvg-id="Paramountchannel.br" tvg-name="Paramount FHD h265ª" tvg-logo="http://a5.vc/uRn" group-title=".Canais",Paramount FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29448
+#EXTINF:-1 tvg-id="Paramountchannel.br" tvg-name="Paramount FHD" tvg-logo="http://a5.vc/uRn" group-title=".Canais",Paramount FHD
+http://csrv.tv:80/nfljr/tvn58/1972
+#EXTINF:-1 tvg-id="Paramountchannel.br" tvg-name="Paramount FHDª" tvg-logo="http://a5.vc/uRn" group-title=".Canais",Paramount FHDª
+http://csrv.tv:80/nfljr/tvn58/45187
+#EXTINF:-1 tvg-id="Paramountchannel.br" tvg-name="Paramount HD" tvg-logo="http://a5.vc/uRn" group-title=".Canais",Paramount HD
+http://csrv.tv:80/nfljr/tvn58/1764
+#EXTINF:-1 tvg-id="Paramountchannel.br" tvg-name="Paramount HDª" tvg-logo="http://a5.vc/uRn" group-title=".Canais",Paramount HDª
+http://csrv.tv:80/nfljr/tvn58/2343
+#EXTINF:-1 tvg-id="Paramountchannel.br" tvg-name="Paramount SD" tvg-logo="http://a5.vc/uRn" group-title=".Canais",Paramount SD
+http://csrv.tv:80/nfljr/tvn58/1765
+#EXTINF:-1 tvg-id="Paramountchannel.br" tvg-name="Paramount SDª" tvg-logo="http://a5.vc/uRn" group-title=".Canais",Paramount SDª
+http://csrv.tv:80/nfljr/tvn58/2168
+
+#EXTINF:-1 tvg-id="Sonychannel.br" tvg-name="Sony Channel FHD h265" tvg-logo="http://a5.vc/tSP" group-title=".Canais",Sony Channel FHD h265
+http://csrv.tv:80/nfljr/tvn58/25464
+#EXTINF:-1 tvg-id="Sonychannel.br" tvg-name="Sony Channel FHD h265ª" tvg-logo="http://a5.vc/tSP" group-title=".Canais",Sony Channel FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29480
+#EXTINF:-1 tvg-id="Sonychannel.br" tvg-name="Sony Channel FHD" tvg-logo="http://a5.vc/tSP" group-title=".Canais",Sony Channel FHD
+http://csrv.tv:80/nfljr/tvn58/2017
+#EXTINF:-1 tvg-id="Sonychannel.br" tvg-name="Sony Channel FHDª" tvg-logo="http://a5.vc/tSP" group-title=".Canais",Sony Channel FHDª
+http://csrv.tv:80/nfljr/tvn58/45129
+#EXTINF:-1 tvg-id="Sonychannel.br" tvg-name="Sony Channel HD" tvg-logo="http://a5.vc/tSP" group-title=".Canais",Sony Channel HD
+http://csrv.tv:80/nfljr/tvn58/1882
+#EXTINF:-1 tvg-id="Sonychannel.br" tvg-name="Sony Channel HDª" tvg-logo="http://a5.vc/tSP" group-title=".Canais",Sony Channel HDª
+http://csrv.tv:80/nfljr/tvn58/2395
+#EXTINF:-1 tvg-id="Sonychannel.br" tvg-name="Sony Channel HD leg" tvg-logo="http://a5.vc/tSP" group-title=".Canais",Sony Channel HD leg
+http://csrv.tv:80/nfljr/tvn58/1495
+#EXTINF:-1 tvg-id="Sonychannel.br" tvg-name="Sony Channel SD" tvg-logo="http://a5.vc/tSP" group-title=".Canais",Sony Channel SD
+http://csrv.tv:80/nfljr/tvn58/1883
+#EXTINF:-1 tvg-id="Sonychannel.br" tvg-name="Sony Channel SDª" tvg-logo="http://a5.vc/tSP" group-title=".Canais",Sony Channel SDª
+http://csrv.tv:80/nfljr/tvn58/2207
+#EXTINF:-1 tvg-id="Sonychannel.br" tvg-name="Sony Channel SD leg" tvg-logo="http://a5.vc/tSP" group-title=".Canais",Sony Channel SD leg
+http://csrv.tv:80/nfljr/tvn58/1494
+
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space FHD h265" tvg-logo="http://a5.vc/MNj" group-title=".Canais",Space FHD h265
+http://csrv.tv:80/nfljr/tvn58/25420
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space FHD h265ª" tvg-logo="http://a5.vc/MNj" group-title=".Canais",Space FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29440
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space FHD" tvg-logo="http://a5.vc/MNj" group-title=".Canais",Space FHD
+http://csrv.tv:80/nfljr/tvn58/1969
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space FHDª" tvg-logo="http://a5.vc/MNj" group-title=".Canais",Space FHDª
+http://csrv.tv:80/nfljr/tvn58/45198
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space HD" tvg-logo="http://a5.vc/MNj" group-title=".Canais",Space HD
+http://csrv.tv:80/nfljr/tvn58/1732
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space HDª" tvg-logo="http://a5.vc/MNj" group-title=".Canais",Space HDª
+http://csrv.tv:80/nfljr/tvn58/2333
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space HD leg" tvg-logo="http://a5.vc/MNj" group-title=".Canais",Space HD leg
+http://csrv.tv:80/nfljr/tvn58/1501
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space SD" tvg-logo="http://a5.vc/MNj" group-title=".Canais",Space SD
+http://csrv.tv:80/nfljr/tvn58/1733
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space SDª" tvg-logo="http://a5.vc/MNj" group-title=".Canais",Space SDª
+http://csrv.tv:80/nfljr/tvn58/2156
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space SD leg" tvg-logo="http://a5.vc/MNj" group-title=".Canais",Space SD leg
+http://csrv.tv:80/nfljr/tvn58/1500
+
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal FHD h265" tvg-logo="http://a5.vc/u7I" group-title=".Canais",Studio Universal FHD h265
+http://csrv.tv:80/nfljr/tvn58/25416
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal FHD h265ª" tvg-logo="http://a5.vc/u7I" group-title=".Canais",Studio Universal FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29436
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal FHD" tvg-logo="http://a5.vc/u7I" group-title=".Canais",Studio Universal FHD
+http://csrv.tv:80/nfljr/tvn58/1968
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal FHDª" tvg-logo="http://a5.vc/u7I" group-title=".Canais",Studio Universal FHDª
+http://csrv.tv:80/nfljr/tvn58/45202
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal HD" tvg-logo="http://a5.vc/u7I" group-title=".Canais",Studio Universal HD
+http://csrv.tv:80/nfljr/tvn58/1724
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal HDª" tvg-logo="http://a5.vc/u7I" group-title=".Canais",Studio Universal HDª
+http://csrv.tv:80/nfljr/tvn58/2329
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal SD" tvg-logo="http://a5.vc/u7I" group-title=".Canais",Studio Universal SD
+http://csrv.tv:80/nfljr/tvn58/1725
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal SDª" tvg-logo="http://a5.vc/u7I" group-title=".Canais",Studio Universal SDª
+http://csrv.tv:80/nfljr/tvn58/2153
+
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="Syfy FHD h265" tvg-logo="http://a5.vc/cts" group-title=".Canais",Syfy FHD h265
+http://csrv.tv:80/nfljr/tvn58/25415
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="Syfy FHD h265ª" tvg-logo="http://a5.vc/cts" group-title=".Canais",Syfy FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29404
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="Syfy FHD" tvg-logo="http://a5.vc/cts" group-title=".Canais",Syfy FHD
+http://csrv.tv:80/nfljr/tvn58/1967
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="Syfy FHDª" tvg-logo="http://a5.vc/cts" group-title=".Canais",Syfy FHDª
+http://csrv.tv:80/nfljr/tvn58/45203
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="Syfy HD" tvg-logo="http://a5.vc/cts" group-title=".Canais",Syfy HD
+http://csrv.tv:80/nfljr/tvn58/1734
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="Syfy HDª" tvg-logo="http://a5.vc/cts" group-title=".Canais",Syfy HDª
+http://csrv.tv:80/nfljr/tvn58/2328
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="Syfy SD" tvg-logo="http://a5.vc/cts" group-title=".Canais",Syfy SD
+http://csrv.tv:80/nfljr/tvn58/1735
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="Syfy SDª" tvg-logo="http://a5.vc/cts" group-title=".Canais",Syfy SDª
+http://csrv.tv:80/nfljr/tvn58/2152
+
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHD h265" tvg-logo="http://a5.vc/Crr" group-title=".Canais",TBS FHD h265
+http://csrv.tv:80/nfljr/tvn58/25414
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHD h265ª" tvg-logo="http://a5.vc/Crr" group-title=".Canais",TBS FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29435
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHD" tvg-logo="http://a5.vc/Crr" group-title=".Canais",TBS FHD
+http://csrv.tv:80/nfljr/tvn58/1966
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHDª" tvg-logo="http://a5.vc/Crr" group-title=".Canais",TBS FHDª
+http://csrv.tv:80/nfljr/tvn58/45204
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD" tvg-logo="http://a5.vc/Crr" group-title=".Canais",TBS HD
+http://csrv.tv:80/nfljr/tvn58/1722
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HDª" tvg-logo="http://a5.vc/Crr" group-title=".Canais",TBS HDª
+http://csrv.tv:80/nfljr/tvn58/2327
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS SD" tvg-logo="http://a5.vc/Crr" group-title=".Canais",TBS SD
+http://csrv.tv:80/nfljr/tvn58/1723
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS SDª" tvg-logo="http://a5.vc/Crr" group-title=".Canais",TBS SDª
+http://csrv.tv:80/nfljr/tvn58/2151
+
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="http://a5.vc/4x7" group-title=".Canais",TCM SD
+http://csrv.tv:80/nfljr/tvn58/1721
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SDª" tvg-logo="http://a5.vc/4x7" group-title=".Canais",TCM SDª
+http://csrv.tv:80/nfljr/tvn58/2150
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD¹" tvg-logo="http://a5.vc/4x7" group-title=".Canais",TCM SD¹
+http://lista.lorddark.club:8080/4816879561/5445175358/19332
+
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD h265" tvg-logo="http://a5.vc/Czz" group-title=".Canais",TLC FHD h265
+http://csrv.tv:80/nfljr/tvn58/25351
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD h265ª" tvg-logo="http://a5.vc/Czz" group-title=".Canais",TLC FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29398
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD" tvg-logo="http://a5.vc/Czz" group-title=".Canais",TLC FHD
+http://csrv.tv:80/nfljr/tvn58/1964
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHDª" tvg-logo="http://a5.vc/Czz" group-title=".Canais",TLC FHDª
+http://csrv.tv:80/nfljr/tvn58/45211
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD" tvg-logo="http://a5.vc/Czz" group-title=".Canais",TLC HD
+http://csrv.tv:80/nfljr/tvn58/1706
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HDª" tvg-logo="http://a5.vc/Czz" group-title=".Canais",TLC HDª
+http://csrv.tv:80/nfljr/tvn58/2319
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD" tvg-logo="http://a5.vc/Czz" group-title=".Canais",TLC SD
+http://csrv.tv:80/nfljr/tvn58/1707
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SDª" tvg-logo="http://a5.vc/Czz" group-title=".Canais",TLC SDª
+http://csrv.tv:80/nfljr/tvn58/2142
+
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD h265" tvg-logo="http://a5.vc/gOR" group-title=".Canais",TNT FHD h265
+http://csrv.tv:80/nfljr/tvn58/25407
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD h265ª" tvg-logo="http://a5.vc/gOR" group-title=".Canais",TNT FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29428
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD" tvg-logo="http://a5.vc/gOR" group-title=".Canais",TNT FHD
+http://csrv.tv:80/nfljr/tvn58/1963
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHDª" tvg-logo="http://a5.vc/gOR" group-title=".Canais",TNT FHDª
+http://csrv.tv:80/nfljr/tvn58/45212
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="http://a5.vc/gOR" group-title=".Canais",TNT HD
+http://csrv.tv:80/nfljr/tvn58/1704
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HDª" tvg-logo="http://a5.vc/gOR" group-title=".Canais",TNT HDª
+http://csrv.tv:80/nfljr/tvn58/2318
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD leg" tvg-logo="http://a5.vc/gOR" group-title=".Canais",TNT HD leg
+http://csrv.tv:80/nfljr/tvn58/1509
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="http://a5.vc/gOR" group-title=".Canais",TNT SD
+http://csrv.tv:80/nfljr/tvn58/1705
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SDª" tvg-logo="http://a5.vc/gOR" group-title=".Canais",TNT SDª
+http://csrv.tv:80/nfljr/tvn58/2141
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD leg" tvg-logo="http://a5.vc/gOR" group-title=".Canais",TNT SD leg
+http://csrv.tv:80/nfljr/tvn58/1508
+
+#EXTINF:-1 tvg-id="Tntseries.br" tvg-name="TNT Series FHD h265" tvg-logo="http://a5.vc/oQe" group-title=".Canais",TNT Series FHD h265
+http://csrv.tv:80/nfljr/tvn58/25406
+#EXTINF:-1 tvg-id="Tntseries.br" tvg-name="TNT Series FHD h265ª" tvg-logo="http://a5.vc/oQe" group-title=".Canais",TNT Series FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29427
+#EXTINF:-1 tvg-id="Tntseries.br" tvg-name="TNT Series FHD" tvg-logo="http://a5.vc/oQe" group-title=".Canais",TNT Series FHD
+http://csrv.tv:80/nfljr/tvn58/1962
+#EXTINF:-1 tvg-id="Tntseries.br" tvg-name="TNT Series FHDª" tvg-logo="http://a5.vc/oQe" group-title=".Canais",TNT Series FHDª
+http://csrv.tv:80/nfljr/tvn58/45213
+#EXTINF:-1 tvg-id="Tntseries.br" tvg-name="TNT Series HD" tvg-logo="http://a5.vc/oQe" group-title=".Canais",TNT Series HD
+http://csrv.tv:80/nfljr/tvn58/1702
+#EXTINF:-1 tvg-id="Tntseries.br" tvg-name="TNT Series HDª" tvg-logo="http://a5.vc/oQe" group-title=".Canais",TNT Series HDª
+http://csrv.tv:80/nfljr/tvn58/2317
+#EXTINF:-1 tvg-id="Tntseries.br" tvg-name="TNT Series HD leg" tvg-logo="http://a5.vc/oQe" group-title=".Canais",TNT Series HD leg
+http://csrv.tv:80/nfljr/tvn58/1499
+#EXTINF:-1 tvg-id="Tntseries.br" tvg-name="TNT Series SD" tvg-logo="http://a5.vc/oQe" group-title=".Canais",TNT Series SD
+http://csrv.tv:80/nfljr/tvn58/1703
+#EXTINF:-1 tvg-id="Tntseries.br" tvg-name="TNT Series SDª" tvg-logo="http://a5.vc/oQe" group-title=".Canais",TNT Series SDª
+http://csrv.tv:80/nfljr/tvn58/2140
+#EXTINF:-1 tvg-id="Tntseries.br" tvg-name="TNT Series SD leg" tvg-logo="http://a5.vc/oQe" group-title=".Canais",TNT Series SD leg
+http://csrv.tv:80/nfljr/tvn58/1498
+
+#EXTINF:-1 tvg-id="Universaltv.br" tvg-name="Universal TV FHD h265" tvg-logo="http://a5.vc/8CR" group-title=".Canais",Universal TV FHD h265
+http://csrv.tv:80/nfljr/tvn58/25404
+#EXTINF:-1 tvg-id="Universaltv.br" tvg-name="Universal TV FHD h265ª" tvg-logo="http://a5.vc/8CR" group-title=".Canais",Universal TV FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29426
+#EXTINF:-1 tvg-id="Universaltv.br" tvg-name="Universal TV FHD" tvg-logo="http://a5.vc/8CR" group-title=".Canais",Universal TV FHD
+http://csrv.tv:80/nfljr/tvn58/1959
+#EXTINF:-1 tvg-id="Universaltv.br" tvg-name="Universal TV FHDª" tvg-logo="http://a5.vc/8CR" group-title=".Canais",Universal TV FHDª
+http://csrv.tv:80/nfljr/tvn58/45218
+#EXTINF:-1 tvg-id="Universaltv.br" tvg-name="Universal TV HD" tvg-logo="http://a5.vc/8CR" group-title=".Canais",Universal TV HD
+http://csrv.tv:80/nfljr/tvn58/1688
+#EXTINF:-1 tvg-id="Universaltv.br" tvg-name="Universal TV HDª" tvg-logo="http://a5.vc/8CR" group-title=".Canais",Universal TV HDª
+http://csrv.tv:80/nfljr/tvn58/2315
+#EXTINF:-1 tvg-id="Universaltv.br" tvg-name="Universal TV SD" tvg-logo="http://a5.vc/8CR" group-title=".Canais",Universal TV SD
+http://csrv.tv:80/nfljr/tvn58/1689
+#EXTINF:-1 tvg-id="Universaltv.br" tvg-name="Universal TV SDª" tvg-logo="http://a5.vc/8CR" group-title=".Canais",Universal TV SDª
+http://csrv.tv:80/nfljr/tvn58/2137
+
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel FHD h265" tvg-logo="http://a5.vc/BrP" group-title=".Canais",Warner Channel FHD h265
+http://csrv.tv:80/nfljr/tvn58/25401
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel FHD h265ª" tvg-logo="http://a5.vc/BrP" group-title=".Canais",Warner Channel FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29424
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel FHD" tvg-logo="http://a5.vc/BrP" group-title=".Canais",Warner Channel FHD
+http://csrv.tv:80/nfljr/tvn58/1957
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel FHDª" tvg-logo="http://a5.vc/BrP" group-title=".Canais",Warner Channel FHDª
+http://csrv.tv:80/nfljr/tvn58/45221
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel HD" tvg-logo="http://a5.vc/BrP" group-title=".Canais",Warner Channel HD
+http://csrv.tv:80/nfljr/tvn58/1681
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel HDª" tvg-logo="http://a5.vc/BrP" group-title=".Canais",Warner Channel HDª
+http://csrv.tv:80/nfljr/tvn58/2313
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel HD leg" tvg-logo="http://a5.vc/BrP" group-title=".Canais",Warner Channel HD leg
+http://csrv.tv:80/nfljr/tvn58/1497
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel SD" tvg-logo="http://a5.vc/BrP" group-title=".Canais",Warner Channel SD
+http://csrv.tv:80/nfljr/tvn58/1682
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel SDª" tvg-logo="http://a5.vc/BrP" group-title=".Canais",Warner Channel SDª
+http://csrv.tv:80/nfljr/tvn58/2134
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel SD leg" tvg-logo="http://a5.vc/BrP" group-title=".Canais",Warner Channel SD leg
+http://csrv.tv:80/nfljr/tvn58/1496
+##
+##----------
+## 42 HBO ##
+##----------
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 1 FHD h265" tvg-logo="http://a5.vc/ezc" group-title=".Canais",HBO 1 FHD h265
+http://csrv.tv:80/nfljr/tvn58/25445
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 1 FHD h265ª" tvg-logo="http://a5.vc/ezc" group-title=".Canais",HBO 1 FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29410
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 1 FHD" tvg-logo="http://a5.vc/ezc" group-title=".Canais",HBO 1 FHD
+http://csrv.tv:80/nfljr/tvn58/1940
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 1 FHDª" tvg-logo="http://a5.vc/ezc" group-title=".Canais",HBO 1 FHDª
+http://csrv.tv:80/nfljr/tvn58/45165
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 1 HD" tvg-logo="http://a5.vc/ezc" group-title=".Canais",HBO 1 HD
+http://csrv.tv:80/nfljr/tvn58/1805
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 1 HDª" tvg-logo="http://a5.vc/ezc" group-title=".Canais",HBO 1 HDª
+http://csrv.tv:80/nfljr/tvn58/2360
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 1 HD leg" tvg-logo="http://a5.vc/ezc" group-title=".Canais",HBO 1 HD leg
+http://csrv.tv:80/nfljr/tvn58/1525
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 1 SD" tvg-logo="http://a5.vc/ezc" group-title=".Canais",HBO 1 SD
+http://csrv.tv:80/nfljr/tvn58/1810
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 1 SDª" tvg-logo="http://a5.vc/ezc" group-title=".Canais",HBO 1 SDª
+http://csrv.tv:80/nfljr/tvn58/2182
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 1 SD leg" tvg-logo="http://a5.vc/ezc" group-title=".Canais",HBO 1 SD leg
+http://csrv.tv:80/nfljr/tvn58/1524
+
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD h265" tvg-logo="http://a5.vc/0qQ" group-title=".Canais",HBO 2 FHD h265
+http://csrv.tv:80/nfljr/tvn58/25447
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD h265ª" tvg-logo="http://a5.vc/0qQ" group-title=".Canais",HBO 2 FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29460
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="http://a5.vc/0qQ" group-title=".Canais",HBO 2 FHD
+http://csrv.tv:80/nfljr/tvn58/1941
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHDª" tvg-logo="http://a5.vc/0qQ" group-title=".Canais",HBO 2 FHDª
+http://csrv.tv:80/nfljr/tvn58/45167
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="http://a5.vc/0qQ" group-title=".Canais",HBO 2 HD
+http://csrv.tv:80/nfljr/tvn58/1808
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HDª" tvg-logo="http://a5.vc/0qQ" group-title=".Canais",HBO 2 HDª
+http://csrv.tv:80/nfljr/tvn58/2362
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="http://a5.vc/0qQ" group-title=".Canais",HBO 2 SD
+http://csrv.tv:80/nfljr/tvn58/1809
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SDª" tvg-logo="http://a5.vc/0qQ" group-title=".Canais",HBO 2 SDª
+http://csrv.tv:80/nfljr/tvn58/2126
+
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family FHD h265" tvg-logo="http://a5.vc/u4M" group-title=".Canais",HBO Family FHD h265
+http://csrv.tv:80/nfljr/tvn58/25446
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family FHD h265ª" tvg-logo="http://a5.vc/u4M" group-title=".Canais",HBO Family FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29411
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family FHD" tvg-logo="http://a5.vc/u4M" group-title=".Canais",HBO Family FHD
+http://csrv.tv:80/nfljr/tvn58/1992
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family FHDª" tvg-logo="http://a5.vc/u4M" group-title=".Canais",HBO Family FHDª
+http://csrv.tv:80/nfljr/tvn58/45164
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family HD" tvg-logo="http://a5.vc/u4M" group-title=".Canais",HBO Family HD
+http://csrv.tv:80/nfljr/tvn58/1806
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family HDª" tvg-logo="http://a5.vc/u4M" group-title=".Canais",HBO Family HDª
+http://csrv.tv:80/nfljr/tvn58/2361
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family SD" tvg-logo="http://a5.vc/u4M" group-title=".Canais",HBO Family SD
+http://csrv.tv:80/nfljr/tvn58/1807
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family SDª" tvg-logo="http://a5.vc/u4M" group-title=".Canais",HBO Family SDª
+http://csrv.tv:80/nfljr/tvn58/2185
+
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi FHD h265" tvg-logo="http://a5.vc/IHD" group-title=".Canais",HBO Mundi FHD h265
+http://csrv.tv:80/nfljr/tvn58/25439
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi FHD h265ª" tvg-logo="http://a5.vc/IHD" group-title=".Canais",HBO Mundi FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29456
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi FHD" tvg-logo="http://a5.vc/IHD" group-title=".Canais",HBO Mundi FHD
+http://csrv.tv:80/nfljr/tvn58/1986
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi FHDª" tvg-logo="http://a5.vc/IHD" group-title=".Canais",HBO Mundi FHDª
+http://csrv.tv:80/nfljr/tvn58/45173
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi HD" tvg-logo="http://a5.vc/IHD" group-title=".Canais",HBO Mundi HD
+http://csrv.tv:80/nfljr/tvn58/1791
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi HDª" tvg-logo="http://a5.vc/IHD" group-title=".Canais",HBO Mundi HDª
+http://csrv.tv:80/nfljr/tvn58/2355
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi SD" tvg-logo="http://a5.vc/IHD" group-title=".Canais",HBO Mundi SD
+http://csrv.tv:80/nfljr/tvn58/1792
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi SDª" tvg-logo="http://a5.vc/IHD" group-title=".Canais",HBO Mundi SDª
+http://csrv.tv:80/nfljr/tvn58/2178
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi SD leg" tvg-logo="http://a5.vc/9qE" group-title=".Canais",HBO Mundi SD leg
+http://csrv.tv:80/nfljr/tvn58/1520
+
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus FHD h265" tvg-logo="http://a5.vc/60H" group-title=".Canais",HBO Plus FHD h265
+http://csrv.tv:80/nfljr/tvn58/25444
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus FHD h265ª" tvg-logo="http://a5.vc/60H" group-title=".Canais",HBO Plus FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29462
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus FHD" tvg-logo="http://a5.vc/60H" group-title=".Canais",HBO Plus FHD
+http://csrv.tv:80/nfljr/tvn58/1991
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus FHDª" tvg-logo="http://a5.vc/60H" group-title=".Canais",HBO Plus FHDª
+http://csrv.tv:80/nfljr/tvn58/45227
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus HD" tvg-logo="http://a5.vc/60H" group-title=".Canais",HBO Plus HD
+http://csrv.tv:80/nfljr/tvn58/1803
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus HDª" tvg-logo="http://a5.vc/60H" group-title=".Canais",HBO Plus HDª
+http://csrv.tv:80/nfljr/tvn58/2359
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus HD leg" tvg-logo="http://a5.vc/60H" group-title=".Canais",HBO Plus HD leg
+http://csrv.tv:80/nfljr/tvn58/1523
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus SD" tvg-logo="http://a5.vc/60H" group-title=".Canais",HBO Plus SD
+http://csrv.tv:80/nfljr/tvn58/1804
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus SDª" tvg-logo="http://a5.vc/60H" group-title=".Canais",HBO Plus SDª
+http://csrv.tv:80/nfljr/tvn58/2183
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus SD leg" tvg-logo="http://a5.vc/60H" group-title=".Canais",HBO Plus SD leg
+http://csrv.tv:80/nfljr/tvn58/1522
+
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO Pop FHD h265" tvg-logo="http://a5.vc/Xrj" group-title=".Canais",HBO Pop FHD h265
+http://csrv.tv:80/nfljr/tvn58/25437
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO Pop FHD h265ª" tvg-logo="http://a5.vc/Xrj" group-title=".Canais",HBO Pop FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29409
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO Pop FHD" tvg-logo="http://a5.vc/Xrj" group-title=".Canais",HBO Pop FHD
+http://csrv.tv:80/nfljr/tvn58/1984
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO Pop FHDª" tvg-logo="http://a5.vc/Xrj" group-title=".Canais",HBO Pop FHDª
+http://csrv.tv:80/nfljr/tvn58/45175
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO Pop HD" tvg-logo="http://a5.vc/Xrj" group-title=".Canais",HBO Pop HD
+http://csrv.tv:80/nfljr/tvn58/1787
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO Pop HDª" tvg-logo="http://a5.vc/Xrj" group-title=".Canais",HBO Pop HDª
+http://csrv.tv:80/nfljr/tvn58/2353
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO Pop HD leg" tvg-logo="http://a5.vc/Rjw" group-title=".Canais",HBO Pop HD leg
+http://csrv.tv:80/nfljr/tvn58/1505
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO Pop SD" tvg-logo="http://a5.vc/Rjw" group-title=".Canais",HBO Pop SD
+http://csrv.tv:80/nfljr/tvn58/1788
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO Pop SDª" tvg-logo="http://a5.vc/Rjw" group-title=".Canais",HBO Pop SDª
+http://csrv.tv:80/nfljr/tvn58/2177
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO Pop SD leg" tvg-logo="http://a5.vc/Rjw" group-title=".Canais",HBO Pop SD leg
+http://csrv.tv:80/nfljr/tvn58/1504
+
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature FHD h265" tvg-logo="http://a5.vc/2N4" group-title=".Canais",HBO Signature FHD h265
+http://csrv.tv:80/nfljr/tvn58/25443
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature FHD h265ª" tvg-logo="http://a5.vc/2N4" group-title=".Canais",HBO Signature FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29461
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature FHD" tvg-logo="http://a5.vc/2N4" group-title=".Canais",HBO Signature FHD
+http://csrv.tv:80/nfljr/tvn58/1990
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature FHDª" tvg-logo="http://a5.vc/2N4" group-title=".Canais",HBO Signature FHDª
+http://csrv.tv:80/nfljr/tvn58/45166
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature HD" tvg-logo="http://a5.vc/2N4" group-title=".Canais",HBO Signature HD
+http://csrv.tv:80/nfljr/tvn58/1801
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature HDª" tvg-logo="http://a5.vc/2N4" group-title=".Canais",HBO Signature HDª
+http://csrv.tv:80/nfljr/tvn58/2358
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature SD" tvg-logo="http://a5.vc/2N4" group-title=".Canais",HBO Signature SD
+http://csrv.tv:80/nfljr/tvn58/1802
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature SDª" tvg-logo="http://a5.vc/2N4" group-title=".Canais",HBO Signature SDª
+http://csrv.tv:80/nfljr/tvn58/2181
+
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme FHD h265" tvg-logo="http://a5.vc/0aN" group-title=".Canais",HBO Xtreme FHD h265
+http://csrv.tv:80/nfljr/tvn58/25438
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme FHD h265ª" tvg-logo="http://a5.vc/0aN" group-title=".Canais",HBO Xtreme FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29455
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme FHD" tvg-logo="http://a5.vc/0aN" group-title=".Canais",HBO Xtreme FHD
+http://csrv.tv:80/nfljr/tvn58/1985
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme FHDª" tvg-logo="http://a5.vc/0aN" group-title=".Canais",HBO Xtreme FHDª
+http://csrv.tv:80/nfljr/tvn58/45174
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme HD" tvg-logo="http://a5.vc/0aN" group-title=".Canais",HBO Xtreme HD
+http://csrv.tv:80/nfljr/tvn58/1789
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme HDª" tvg-logo="http://a5.vc/0aN" group-title=".Canais",HBO Xtreme HDª
+http://csrv.tv:80/nfljr/tvn58/2354
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme SD" tvg-logo="http://a5.vc/0aN" group-title=".Canais",HBO Xtreme SD
+http://csrv.tv:80/nfljr/tvn58/1790
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme SDª" tvg-logo="http://a5.vc/0aN" group-title=".Canais",HBO Xtreme SDª
+http://csrv.tv:80/nfljr/tvn58/2179
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme SD leg" tvg-logo="http://a5.vc/ayn" group-title=".Canais",HBO Xtreme SD leg
+http://csrv.tv:80/nfljr/tvn58/1521
+##
+##---------------
+## 43 Telecine ##
+##---------------
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC Action FHD h265" tvg-logo="http://a5.vc/BsL" group-title=".Canais",TC Action FHD h265
+http://csrv.tv:80/nfljr/tvn58/25413
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC Action FHD h265ª" tvg-logo="http://a5.vc/BsL" group-title=".Canais",TC Action FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29434
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC Action FHD" tvg-logo="http://a5.vc/BsL" group-title=".Canais",TC Action FHD
+http://csrv.tv:80/nfljr/tvn58/1927
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC Action FHDª" tvg-logo="http://a5.vc/BsL" group-title=".Canais",TC Action FHDª
+http://csrv.tv:80/nfljr/tvn58/45205
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC Action HD" tvg-logo="http://a5.vc/BsL" group-title=".Canais",TC Action HD
+http://csrv.tv:80/nfljr/tvn58/1719
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC Action HDª" tvg-logo="http://a5.vc/BsL" group-title=".Canais",TC Action HDª
+http://csrv.tv:80/nfljr/tvn58/2326
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC Action HD leg" tvg-logo="http://a5.vc/BsL" group-title=".Canais",TC Action HD leg
+http://csrv.tv:80/nfljr/tvn58/1519
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC Action SD" tvg-logo="http://a5.vc/BsL" group-title=".Canais",TC Action SD
+http://csrv.tv:80/nfljr/tvn58/1720
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC Action SDª" tvg-logo="http://a5.vc/BsL" group-title=".Canais",TC Action SDª
+http://csrv.tv:80/nfljr/tvn58/2149
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC Action SD leg" tvg-logo="http://a5.vc/BsL" group-title=".Canais",TC Action SD leg
+http://csrv.tv:80/nfljr/tvn58/1518
+
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC Cult FHD h265" tvg-logo="http://a5.vc/DZP" group-title=".Canais",TC Cult FHD h265
+http://csrv.tv:80/nfljr/tvn58/25412
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC Cult FHD h265ª" tvg-logo="http://a5.vc/DZP" group-title=".Canais",TC Cult FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29433
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC Cult FHD" tvg-logo="http://a5.vc/DZP" group-title=".Canais",TC Cult FHD
+http://csrv.tv:80/nfljr/tvn58/1965
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC Cult FHDª" tvg-logo="http://a5.vc/DZP" group-title=".Canais",TC Cult FHDª
+http://csrv.tv:80/nfljr/tvn58/45206
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC Cult HD" tvg-logo="http://a5.vc/DZP" group-title=".Canais",TC Cult HD
+http://csrv.tv:80/nfljr/tvn58/1717
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC Cult HDª" tvg-logo="http://a5.vc/DZP" group-title=".Canais",TC Cult HDª
+http://csrv.tv:80/nfljr/tvn58/2325
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC Cult SD" tvg-logo="http://a5.vc/DZP" group-title=".Canais",TC Cult SD
+http://csrv.tv:80/nfljr/tvn58/1718
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC Cult SDª" tvg-logo="http://a5.vc/DZP" group-title=".Canais",TC Cult SDª
+http://csrv.tv:80/nfljr/tvn58/2148
+
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC Fun FHD h265" tvg-logo="http://a5.vc/TLE" group-title=".Canais",TC Fun FHD h265
+http://csrv.tv:80/nfljr/tvn58/25411
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC Fun FHD h265ª" tvg-logo="http://a5.vc/TLE" group-title=".Canais",TC Fun FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29432
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC Fun FHD" tvg-logo="http://a5.vc/TLE" group-title=".Canais",TC Fun FHD
+http://csrv.tv:80/nfljr/tvn58/1926
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC Fun FHDª" tvg-logo="http://a5.vc/TLE" group-title=".Canais",TC Fun FHDª
+http://csrv.tv:80/nfljr/tvn58/45207
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC Fun HD" tvg-logo="http://a5.vc/TLE" group-title=".Canais",TC Fun HD
+http://csrv.tv:80/nfljr/tvn58/1715
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC Fun HDª" tvg-logo="http://a5.vc/TLE" group-title=".Canais",TC Fun HDª
+http://csrv.tv:80/nfljr/tvn58/2324
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC Fun HD leg" tvg-logo="http://a5.vc/TLE" group-title=".Canais",TC Fun HD leg
+http://csrv.tv:80/nfljr/tvn58/1517
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC Fun SD" tvg-logo="http://a5.vc/TLE" group-title=".Canais",TC Fun SD
+http://csrv.tv:80/nfljr/tvn58/1716
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC Fun SDª" tvg-logo="http://a5.vc/TLE" group-title=".Canais",TC Fun SDª
+http://csrv.tv:80/nfljr/tvn58/2147
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC Fun SD leg" tvg-logo="http://a5.vc/TLE" group-title=".Canais",TC Fun SD leg
+http://csrv.tv:80/nfljr/tvn58/1516
+
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC Premium FHD h265" tvg-logo="http://a5.vc/mOL" group-title=".Canais",TC Pipoca FHD h265
+http://csrv.tv:80/nfljr/tvn58/25410
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC Premium FHD h265ª" tvg-logo="http://a5.vc/mOL" group-title=".Canais",TC Pipoca FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29431
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC Premium FHD" tvg-logo="http://a5.vc/mOL" group-title=".Canais",TC Pipoca FHD
+http://csrv.tv:80/nfljr/tvn58/1925
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC Premium FHDª" tvg-logo="http://a5.vc/mOL" group-title=".Canais",TC Pipoca FHDª
+http://csrv.tv:80/nfljr/tvn58/45208
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC Premium HD" tvg-logo="http://a5.vc/mOL" group-title=".Canais",TC Pipoca HD
+http://csrv.tv:80/nfljr/tvn58/1713
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC Premium HDª" tvg-logo="http://a5.vc/mOL" group-title=".Canais",TC Pipoca HDª
+http://csrv.tv:80/nfljr/tvn58/2323
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC Premium HD leg" tvg-logo="http://a5.vc/mOL" group-title=".Canais",TC Pipoca HD leg
+http://csrv.tv:80/nfljr/tvn58/1515
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC Premium SD" tvg-logo="http://a5.vc/mOL" group-title=".Canais",TC Pipoca SD
+http://csrv.tv:80/nfljr/tvn58/1714
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC Premium SDª" tvg-logo="http://a5.vc/mOL" group-title=".Canais",TC Pipoca SDª
+http://csrv.tv:80/nfljr/tvn58/2146
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC Premium SD leg" tvg-logo="http://a5.vc/mOL" group-title=".Canais",TC Pipoca SD leg
+http://csrv.tv:80/nfljr/tvn58/1514
+
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC Premium FHD h265" tvg-logo="http://a5.vc/N8x" group-title=".Canais",TC Premium FHD h265
+http://csrv.tv:80/nfljr/tvn58/25409
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC Premium FHD h265ª" tvg-logo="http://a5.vc/N8x" group-title=".Canais",TC Premium FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29430
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC Premium FHD" tvg-logo="http://a5.vc/N8x" group-title=".Canais",TC Premium FHD
+http://csrv.tv:80/nfljr/tvn58/1924
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC Premium FHDª" tvg-logo="http://a5.vc/N8x" group-title=".Canais",TC Premium FHDª
+http://csrv.tv:80/nfljr/tvn58/45209
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC Premium HD" tvg-logo="http://a5.vc/N8x" group-title=".Canais",TC Premium HD
+http://csrv.tv:80/nfljr/tvn58/1711
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC Premium HDª" tvg-logo="http://a5.vc/N8x" group-title=".Canais",TC Premium HDª
+http://csrv.tv:80/nfljr/tvn58/2322
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC Premium HD leg" tvg-logo="http://a5.vc/N8x" group-title=".Canais",TC Premium HD leg
+http://csrv.tv:80/nfljr/tvn58/1513
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC Premium SD" tvg-logo="http://a5.vc/N8x" group-title=".Canais",TC Premium SD
+http://csrv.tv:80/nfljr/tvn58/1712
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC Premium SDª" tvg-logo="http://a5.vc/N8x" group-title=".Canais",TC Premium SDª
+http://csrv.tv:80/nfljr/tvn58/2145
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC Premium SD leg" tvg-logo="http://a5.vc/N8x" group-title=".Canais",TC Premium SD leg
+http://csrv.tv:80/nfljr/tvn58/1512
+
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC Touch FHD h265" tvg-logo="http://a5.vc/rBW" group-title=".Canais",TC Touch FHD h265
+http://csrv.tv:80/nfljr/tvn58/25408
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC Touch FHD h265ª" tvg-logo="http://a5.vc/rBW" group-title=".Canais",TC Touch FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29429
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC Touch FHD" tvg-logo="http://a5.vc/rBW" group-title=".Canais",TC Touch FHD
+http://csrv.tv:80/nfljr/tvn58/1923
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC Touch FHDª" tvg-logo="http://a5.vc/rBW" group-title=".Canais",TC Touch FHDª
+http://csrv.tv:80/nfljr/tvn58/45210
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC Touch HD" tvg-logo="http://a5.vc/rBW" group-title=".Canais",TC Touch HD
+http://csrv.tv:80/nfljr/tvn58/1709
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC Touch HDª" tvg-logo="http://a5.vc/rBW" group-title=".Canais",TC Touch HDª
+http://csrv.tv:80/nfljr/tvn58/2321
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC Touch HD leg" tvg-logo="http://a5.vc/rBW" group-title=".Canais",TC Touch HD leg
+http://csrv.tv:80/nfljr/tvn58/1511
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC Touch SD" tvg-logo="http://a5.vc/rBW" group-title=".Canais",TC Touch SD
+http://csrv.tv:80/nfljr/tvn58/1710
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC Touch SDª" tvg-logo="http://a5.vc/rBW" group-title=".Canais",TC Touch SDª
+http://csrv.tv:80/nfljr/tvn58/2144
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC Touch SD leg" tvg-logo="http://a5.vc/rBW" group-title=".Canais",TC Touch SD leg
+http://csrv.tv:80/nfljr/tvn58/1510
+##

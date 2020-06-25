@@ -1,0 +1,74 @@
+#EXTM3U
+## SDª <- Alternativo; SD¹ <- Opção1; SD² <- Opção2; SD³ <- Opção3 ##
+##
+##---------------
+## 12 Notícias ##
+##---------------
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News FHD h265" tvg-logo="http://a5.vc/eJG" group-title=".12.Notícias",Band News FHD h265
+http://csrv.tv:80/nfljr/tvn58/25469
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News FHD h265ª" tvg-logo="http://a5.vc/eJG" group-title=".12.Notícias",Band News FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29423
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News FHD" tvg-logo="http://a5.vc/eJG" group-title=".12.Notícias",Band News FHD
+http://csrv.tv:80/nfljr/tvn58/2020
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News FHDª" tvg-logo="http://a5.vc/eJG" group-title=".12.Notícias",Band News FHDª
+http://csrv.tv:80/nfljr/tvn58/45124
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News HD" tvg-logo="http://a5.vc/eJG" group-title=".12.Notícias",Band News HD
+http://csrv.tv:80/nfljr/tvn58/1893
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News HDª" tvg-logo="http://a5.vc/eJG" group-title=".12.Notícias",Band News HDª
+http://csrv.tv:80/nfljr/tvn58/2210
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News SDª" tvg-logo="http://a5.vc/eJG" group-title=".12.Notícias",Band News SD
+http://csrv.tv:80/nfljr/tvn58/1894
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News SDª" tvg-logo="http://a5.vc/eJG" group-title=".12.Notícias",Band News SDª
+http://csrv.tv:80/nfljr/tvn58/30553
+
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil FHD h265" tvg-logo="http://a5.vc/kBr" group-title=".12.Notícias",CNN Brasil FHD h265
+http://csrv.tv:80/nfljr/tvn58/41990
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil FHD" tvg-logo="http://a5.vc/kBr" group-title=".12.Notícias",CNN Brasil FHD
+http://csrv.tv:80/nfljr/tvn58/41605
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil FHDª" tvg-logo="http://a5.vc/kBr" group-title=".12.Notícias",CNN Brasil FHDª
+http://csrv.tv:80/nfljr/tvn58/45228
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil HD" tvg-logo="http://a5.vc/kBr" group-title=".12.Notícias",CNN Brasil HD
+http://csrv.tv:80/nfljr/tvn58/41606
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil HD" tvg-logo="http://a5.vc/kBr" group-title=".12.Notícias",CNN Brasil HD¹
+https://streaming.cnnbrasil.com.br/cnndigital_main_Output2.m3u8
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil SD" tvg-logo="http://a5.vc/kBr" group-title=".12.Notícias",CNN Brasil SD
+http://csrv.tv:80/nfljr/tvn58/41607
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil SD" tvg-logo="http://a5.vc/kBr" group-title=".12.Notícias",CNN Brasil SD¹
+https://streaming.cnnbrasil.com.br:443/cnndigital_mainOutput4.m3u8
+
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="Globo News FHD h265" tvg-logo="http://a5.vc/Xmr" group-title=".12.Notícias",Globo News FHD h265
+http://csrv.tv:80/nfljr/tvn58/25449
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="Globo News FHD h265ª" tvg-logo="http://a5.vc/Xmr" group-title=".12.Notícias",Globo News FHD h265ª
+http://csrv.tv:80/nfljr/tvn58/29464
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="Globo News FHD" tvg-logo="http://a5.vc/Xmr" group-title=".12.Notícias",Globo News FHD
+http://csrv.tv:80/nfljr/tvn58/1943
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="Globo News FHDª" tvg-logo="http://a5.vc/Xmr" group-title=".12.Notícias",Globo News FHDª
+http://csrv.tv:80/nfljr/tvn58/45161
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="Globo News HD" tvg-logo="http://a5.vc/Xmr" group-title=".12.Notícias",Globo News HD
+http://csrv.tv:80/nfljr/tvn58/1819
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="Globo News HDª" tvg-logo="http://a5.vc/Xmr" group-title=".12.Notícias",Globo News HDª
+http://csrv.tv:80/nfljr/tvn58/2367
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="Globo News SD" tvg-logo="http://a5.vc/Xmr" group-title=".12.Notícias",Globo News SD
+http://csrv.tv:80/nfljr/tvn58/1820
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="Globo News SDª" tvg-logo="http://a5.vc/Xmr" group-title=".12.Notícias",Globo News SDª
+http://csrv.tv:80/nfljr/tvn58/2132
+
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News FHD h265" tvg-logo="http://a5.vc/DPD" group-title=".12.Notícias",Record News FHD h265
+http://csrv.tv:80/nfljr/tvn58/25354
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News FHD" tvg-logo="http://a5.vc/DPD" group-title=".12.Notícias",Record News FHD
+http://csrv.tv:80/nfljr/tvn58/1970
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News FHDª" tvg-logo="http://a5.vc/DPD" group-title=".12.Notícias",Record News FHDª
+http://csrv.tv:80/nfljr/tvn58/45232
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News FHD¹" tvg-logo="http://a5.vc/DPD" group-title=".12.Notícias",Record News FHD¹
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News HD" tvg-logo="http://a5.vc/DPD" group-title=".12.Notícias",Record News HD
+http://csrv.tv:80/nfljr/tvn58/1745
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News HDª" tvg-logo="http://a5.vc/DPD" group-title=".12.Notícias",Record News HDª
+http://csrv.tv:80/nfljr/tvn58/47448
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News HD¹" tvg-logo="http://a5.vc/DPD" group-title=".12.Notícias",Record News HD¹
+http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-b.m3u8
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News SD" tvg-logo="http://a5.vc/DPD" group-title=".12.Notícias",Record News SD
+http://csrv.tv:80/nfljr/tvn58/1746
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News SD¹" tvg-logo="http://a5.vc/DPD" group-title=".12.Notícias",Record News SD¹
+http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-b.m3u8
+##

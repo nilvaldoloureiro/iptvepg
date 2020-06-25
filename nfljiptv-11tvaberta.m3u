@@ -1,0 +1,47 @@
+#EXTM3U
+## SDª <- Alternativo; SD¹ <- Opção1; SD² <- Opção2; SD³ <- Opção3 ##
+##
+##----------------
+## 11 TV Aberta ##
+##----------------
+#EXTINF:-1 tvg-id="Sbtrede.br" tvg-name="TV Aratu HD" tvg-logo="http://a5.vc/FVo" group-title=".11.TV Aberta",TV Aratu HD
+http://csrv.tv:80/nfljr/tvn58/42900
+#EXTINF:-1 tvg-id="Sbtrede.br" tvg-name="TV Aratu On¹" tvg-logo="http://a5.vc/FVo" group-title=".11.TV Aberta",TV Aratu On¹
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Band.br" tvg-name="TV Band BA HD" tvg-logo="http://a5.vc/3pE" group-title=".11.TV Aberta",TV Band BA HD
+http://csrv.tv:80/nfljr/tvn58/42973
+#EXTINF:-1 tvg-id="Band.br" tvg-name="TV Band BA SD" tvg-logo="http://a5.vc/3pE" group-title=".11.TV Aberta",TV Band BA SD
+http://csrv.tv:80/nfljr/tvn58/30551
+
+#EXTINF:-1 tvg-id="TV Bahia" tvg-name="TV Bahia FHD" tvg-logo="http://a5.vc/3pv" group-title=".11.TV Aberta",TV Bahia FHD
+http://csrv.tv:80/nfljr/tvn58/1576
+#EXTINF:-1 tvg-id="TV Bahia" tvg-name="TV Bahia HD" tvg-logo="http://a5.vc/3pv" group-title=".11.TV Aberta",TV Bahia HD
+http://csrv.tv:80/nfljr/tvn58/1609
+#EXTINF:-1 tvg-id="TV Bahia" tvg-name="TV Bahia SD" tvg-logo="http://a5.vc/3pv" group-title=".11.TV Aberta",TV Bahia SD
+http://csrv.tv:80/nfljr/tvn58/1610
+
+#EXTINF:-1 tvg-id="Sbtrede.br" tvg-name="TV Cidade Verde HD" tvg-logo="http://a5.vc/FVo" group-title=".Canais",TV Cidade Verde HD
+http://csrv.tv:80/nfljr/tvn58/48140
+#EXTINF:-1 tvg-id="Sbtrede.br" tvg-name="TV Cidade Verde HD¹" tvg-logo="http://a5.vc/FVo" group-title=".Canais",TV Cidade Verde HD¹
+https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/chunklist_w1654476730.m3u8
+
+#EXTINF:-1 tvg-id="Rede Clube" tvg-name="TV Clube PI FHD" tvg-logo="http://a5.vc/3pv" group-title=".11.TV Aberta",TV Clube PI FHD
+http://csrv.tv:80/nfljr/tvn58/1591
+#EXTINF:-1 tvg-id="Rede Clube" tvg-name="TV Clube PI HD" tvg-logo="http://a5.vc/3pv" group-title=".11.TV Aberta",TV Clube PI HD
+http://csrv.tv:80/nfljr/tvn58/1590
+#EXTINF:-1 tvg-id="Rede Clube" tvg-name="TV Clube PI SD" tvg-logo="http://a5.vc/3pv" group-title=".11.TV Aberta",TV Clube PI SD
+http://csrv.tv:80/nfljr/tvn58/1592
+
+#EXTINF:-1 tvg-id="Recordtv.br" tvg-name="TV Record BA HD" tvg-logo="http://a5.vc/QOy" group-title=".11.TV Aberta",TV Record BA HD
+http://csrv.tv:80/nfljr/tvn58/1665
+#EXTINF:-1 tvg-id="Recordtv.br" tvg-name="TV Record BA HD¹" tvg-logo="http://a5.vc/QOy" group-title=".11.TV Aberta",TV Record BA HD¹
+http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8
+#EXTINF:-1 tvg-id="Recordtv.br" tvg-name="TV Record BA SD" tvg-logo="http://a5.vc/QOy" group-title=".11.TV Aberta",TV Record BA SD
+http://csrv.tv:80/nfljr/tvn58/1664
+#EXTINF:-1 tvg-id="Recordtv.br" tvg-name="TV Record BA SD¹" tvg-logo="http://a5.vc/QOy" group-title=".11.TV Aberta",TV Record BA SD¹
+http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_360_av-b.m3u8
+
+#EXTINF:-1 tvg-id="TVE Bahia" tvg-name="TVE Bahia SD" tvg-logo="https://listaiptv.gratis/logos/imagens/tve.jpg" group-title=".11.TV Aberta",TVE Bahia HD
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+##
